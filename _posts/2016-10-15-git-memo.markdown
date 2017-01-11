@@ -1,0 +1,145 @@
+---
+layout: post
+title:  "git memo"
+date:   2016-10-15 18:29:00 +0900
+---
+Небольшая шпаргалка по git, которая будет дополнятся по мере изучения данного инструмента.
+
+# Клонирование репозитория с удаленного источника
+
+```shell
+cd ~/dev/
+git clone <link_to_the_repo>
+```
+
+# Commit
+
+```shell
+echo test > TODO.txt
+git add TODO.txt
+git commit -m "Commit message"
+```
+
+# Push
+
+```shell
+git push origin master
+```
+
+# Branch and merge workflow
+
+Допустим хочу сделать изменения в проекте:
+
+```shell
+git checkout -b new_feature
+```
+
+Можем вернуться к основной ветке:
+
+```shell
+git checkout master
+```
+
+Если в ветке вышло что-то путное, мерджим ветку с master:
+
+```shell
+git commit -m "commit_message"     # делаем коммит всех изменений из new_feature
+git checkout master
+git merge new_feature
+```
+
+Не забываем отправить код на Github/Bitbucket:
+
+```shell
+git push origin
+```
+
+Перед началом работы не забываем накатить последнюю версию проекта:
+
+```shell
+git pull origin
+```
+
+Сделать коммит:
+
+```shell
+git commit -a -m "Commit desc"
+```
+
+---
+
+Запушить **все ветки** локального репозитория:
+
+```shell
+git push origin
+```
+
+Только ветку master:
+
+```shell
+git push origin master
+```
+
+Запушить текущую ветку:
+
+```shell
+git push origin HEAD
+```
+
+---
+
+Накатить **все ветки** с удаленного репозитория:
+
+```shell
+git pull origin
+```
+
+Только ветку master:
+
+```shell
+git pull origin master
+```
+
+Накатить изменения текущей ветки:
+
+```shell
+git pull origin HEAD
+```
+
+---
+
+Получить список веток, с которыми работаем:
+
+```shell
+git branch
+```
+
+Замерджить some_branch в текущую ветку:
+
+```shell
+git merge some_branch
+```
+
+Просто удалить some_branch (тупиковая ветвь):
+
+```shell
+git branch -D some_branch
+```
+
+Удалить some_branch (после мерджа):
+
+```shell
+git branch -d some_branch
+```
+
+# Adding a remote
+
+```shell
+git remote add origin https://github.com/user/repo.git
+```
+
+# Revert to a previous commit
+
+```shell
+git reset --hard 0d1d7fc32
+```

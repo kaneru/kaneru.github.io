@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "2016 summary"
+date:   2016-12-31 23:57:00 +0900
+---
+# Программирование
+
+Начал изучать следующие технологии:
+
+- Ruby
+- Ruby on Rails
+- JavaScript
+- ReactJS
+
+![Imgur](http://i.imgur.com/N66G7kh.jpg)
+
+Ничего путного не написал, кроме вот этого блога, пары утилит для личного пользования и учебных проектов.
+
+# Аниме
+
+С аниме не густо, почти не смотрел онгоинги.
+
+- Akira
+- Boku dake ga Inai Machi
+- Cowboy Bebop
+- Dagashi Kashi
+- Golden Boy
+- Himouto! Umaru-chan
+- Non Non Biyori
+- Non Non Biyori Repeat
+- Omoide Poroporo
+- One Punch Man
+- One Punch Man: Road to Hero
+- Ore Monogatari!!
+- Ping Pong The Animation
+- Prison School
+- ReLIFE
+- Saenai Heroine no Sodatekata
+- Saenai Heroine no Sodatekata: Ai to Seishun no Service Kai
+- Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+- Shirobako
+- Shokugeki no Souma
+- Shokugeki no Souma: Ni no Sara
+- Space☆Dandy
+- Space☆Dandy 2nd Season
+
+![Imgur](http://i.imgur.com/xaygfZU.jpg)
+
+# Фильмы
+
+Посмотрел рекордно низкое количество фильмов:
+
+- Fallen Angels (1995)
+- Chungking Express (1994)
+- In the Mood for Love (2000)
+- The Revenant (2015)
+- Only God Forgives (2013)
+
+![Imgur](http://i.imgur.com/tvuzW8y.jpg)
+
+# Сериалы / ТВ Шоу
+
+Сериалы практически не смотрел, за исключением пары рандомных серий It's Always Sunny in Philadelphia. Из ТВ шоу могу отметить только 4 сезон Шоу Эрика Андре, а также ныне отмененное Million Dollar Extreme Presents: World Peace. Если Шоу Эрика Андре сдувается по вполне понятным причинам, то World Peace выглядит свежо и оригинально. Но стараниями либералов, Тима Хайдекера и [adult swim] второй и последующие сезоны этого шоу прикрыли.
+
+![Imgur](http://i.imgur.com/1B0gN3o.jpg)
+
+# Игры
+
+Перестал сознательно играть в видеоигры в мае 2016. Продал в ноябре Nintendo 3DS. Подарил подруге Steam аккаунт. Совсем не жалею.
+
+# Музыка
+
+Снова зарегистрировался в last.fm. Слушал много Kyary Pamyu Pamyu, Death Grips, альбом [Ideas Man](https://mde-tv.bandcamp.com/album/ideas-man) и всякого vaporwave'a. Так как vk.com прикрывают music api, выкачал всю библиотеку оттуда, но до сих пор полностью не привел ее в порядок. Стал смотреть в сторону bandcamp'a, даже купил всю дискографию [исполнителя](https://cosmiccycler.bandcamp.com/) из моего города.
+
+<img src="http://i.imgur.com/liNiILs.jpg" style="width:80%;display:block;margin: 0 auto" alt="KPP BEST">
+
+# Книги
+
+Ноль. Абсолютный ноль прочитанных книг. Мне очень стыдно.
