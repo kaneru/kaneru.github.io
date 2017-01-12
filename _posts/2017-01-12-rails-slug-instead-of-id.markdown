@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slug instead of id in Rails"
+title:  "Читаемые URL'ы в рельсовом приложении (friendly_id)"
 date:   2017-01-12 23:15:00 +0900
 ---
 Для того, чтобы использовать красивые урлы вместо id в рельсовом приложении, необходимо установить два гема:
@@ -27,15 +27,15 @@ class AddSlugToPosts < ActiveRecord::Migration[5.0]
 end
 ```
 
-В файл `models/Post.rb` добавляем следующее:
+В файл `models/post.rb` добавляем следующее:
 
 ```ruby
-  extend FriendlyId
-+  friendly_id :title, use: :slugged
-+
-+  def normalize_friendly_id(input)
-+    input.to_s.to_slug.normalize(transliterations: :russian).to_s
-+  end
+extend FriendlyId
+friendly_id :title, use: :slugged
+
+def normalize_friendly_id(input)
+  input.to_s.to_slug.normalize(transliterations: :russian).to_s
+end
 ```
 
 В качестве основы для slug'а берется колонка `title`. Если в `title` содержатся русские буквы, то произойдет транслитерация.
@@ -43,13 +43,13 @@ end
 Затем редактируем контроллер `controllers/posts_controller.rb`:
 
 ```ruby
-   private
+ private
 
-   def post_params
-    params.require(:post).permit(:title, :text, :tag_list, :created_at, :slug)
-   end
+ def post_params
+  params.require(:post).permit(:title, :text, :tag_list, :created_at, :slug)
+ end
 
-   def find_post
-    @post = Post.friendly.find(params[:id])
-   end
+ def find_post
+  @post = Post.friendly.find(params[:id])
+ end
 ```
