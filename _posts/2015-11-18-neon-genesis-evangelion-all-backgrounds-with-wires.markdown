@@ -15,50 +15,50 @@ I like wires.
 
 ## ep01
 
-![Imgur](http://i.imgur.com/LVAHL7c.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00001.png)
 
-![Imgur](http://i.imgur.com/sIY67kC.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00002.png)
 
-![Imgur](http://i.imgur.com/07juuxz.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00003.png)
 
-![Imgur](http://i.imgur.com/omyS2P1.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00004.png)
 
-![Imgur](http://i.imgur.com/IwbrB4g.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00006.png)
 
-![Imgur](http://i.imgur.com/IYtNpRV.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00008.png)
 
-![Imgur](http://i.imgur.com/40Fr1xY.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00009.png)
 
-![Imgur](http://i.imgur.com/3KT6OSr.png)
+![Evangelion Screenshot - Episode 1]({{ site.url }}/assets/images/evangelion-wires/ep01/evangelion-00010.png)
 
 ## ep03
 
-![Imgur](http://i.imgur.com/dbXguwl.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00001.png)
 
-![Imgur](http://i.imgur.com/9WLBscX.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00002.png)
 
-![Imgur](http://i.imgur.com/P2R9Q9t.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00003.png)
 
-![Imgur](http://i.imgur.com/qSwnzR1.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00004.png)
 
-![Imgur](http://i.imgur.com/659FyOg.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00005.png)
 
-![Imgur](http://i.imgur.com/SGlbQ1v.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00006.png)
 
-![Imgur](http://i.imgur.com/zH4rnYC.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00007.png)
 
-![Imgur](http://i.imgur.com/xaTneBN.png)
+![Evangelion Screenshot - Episode 3]({{ site.url }}/assets/images/evangelion-wires/ep03/evangelion-00008.png)
 
 ## ep04
 
-![Imgur](http://i.imgur.com/Xs7ED4C.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00001.png)
 
-![Imgur](http://i.imgur.com/03nDhVN.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00002.png)
 
-![Imgur](http://i.imgur.com/9ooJu0M.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00003.png)
 
-![Imgur](http://i.imgur.com/vnjo05C.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00004.png)
 
-![Imgur](http://i.imgur.com/tjIpJHI.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00005.png)
 
-![Imgur](http://i.imgur.com/wRjfE7N.png)
+![Evangelion Screenshot - Episode 4]({{ site.url }}/assets/images/evangelion-wires/ep04/evangelion-00006.png)

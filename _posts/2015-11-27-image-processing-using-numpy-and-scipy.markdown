@@ -22,10 +22,8 @@ scipy.misc.imsave('outimage.jpg', a)
 
 ## examples
 
-![Imgur](http://i.imgur.com/GDBqohG.jpg)  ![Imgur](http://i.imgur.com/skAjTCZ.jpg)
+![Japan]({{ site.url }}/assets/images/image-processing/japan.jpg)
 
-![Imgur](http://i.imgur.com/jarv8RK.png)  ![Imgur](http://i.imgur.com/1cybeyK.jpg)
+![Anime girl]({{ site.url }}/assets/images/image-processing/grill.jpg)
 
-![Imgur](http://i.imgur.com/9qK0kru.jpg)  ![Imgur](http://i.imgur.com/3eZYg0i.jpg)
-
-
+![Lake]({{ site.url }}/assets/images/image-processing/lake.jpg)

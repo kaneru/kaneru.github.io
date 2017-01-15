@@ -12,7 +12,7 @@ date:   2016-12-31 23:57:00 +0900
 - JavaScript
 - ReactJS
 
-![Imgur](http://i.imgur.com/N66G7kh.jpg)
+![Rails logo]({{ site.url }}/assets/images/2016-summary/rails_logo.jpg)
 
 Ничего путного не написал, кроме вот этого блога, пары утилит для личного пользования и учебных проектов.
 
@@ -44,7 +44,7 @@ date:   2016-12-31 23:57:00 +0900
 - Space☆Dandy
 - Space☆Dandy 2nd Season
 
-![Imgur](http://i.imgur.com/xaygfZU.jpg)
+![Space Dandy]({{ site.url }}/assets/images/2016-summary/space_dandy.jpg)
 
 # Фильмы
 
@@ -56,13 +56,13 @@ date:   2016-12-31 23:57:00 +0900
 - The Revenant (2015)
 - Only God Forgives (2013)
 
-![Imgur](http://i.imgur.com/tvuzW8y.jpg)
+![Fallen Angels]({{ site.url }}/assets/images/2016-summary/fallen_angels.jpg)
 
 # Сериалы / ТВ Шоу
 
 Сериалы практически не смотрел, за исключением пары рандомных серий It's Always Sunny in Philadelphia. Из ТВ шоу могу отметить только 4 сезон Шоу Эрика Андре, а также ныне отмененное Million Dollar Extreme Presents: World Peace. Если Шоу Эрика Андре сдувается по вполне понятным причинам, то World Peace выглядит свежо и оригинально. Но стараниями либералов, Тима Хайдекера и [adult swim] второй и последующие сезоны этого шоу прикрыли.
 
-![Imgur](http://i.imgur.com/1B0gN3o.jpg)
+![MDE presents World Peace]({{ site.url }}/assets/images/2016-summary/world_peace.jpg)
 
 # Игры
 
@@ -72,7 +72,7 @@ date:   2016-12-31 23:57:00 +0900
 
 Снова зарегистрировался в last.fm. Слушал много Kyary Pamyu Pamyu, Death Grips, альбом [Ideas Man](https://mde-tv.bandcamp.com/album/ideas-man) и всякого vaporwave'a. Так как vk.com прикрывают music api, выкачал всю библиотеку оттуда, но до сих пор полностью не привел ее в порядок. Стал смотреть в сторону bandcamp'a, даже купил всю дискографию [исполнителя](https://cosmiccycler.bandcamp.com/) из моего города.
 
-<img src="http://i.imgur.com/liNiILs.jpg" style="width:80%;display:block;margin: 0 auto" alt="KPP BEST">
+<img src="{{ site.url }}/assets/images/2016-summary/kpp.jpg" style="width:80%;display:block;margin: 0 auto" alt="KPP BEST">
 
 # Книги
 

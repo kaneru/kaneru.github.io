@@ -11,7 +11,7 @@ date:   2016-04-01 09:00:00 +0900
 
 Мой рабочий стол выглядит вот так:
 
-![Imgur](http://i.imgur.com/Ev1ftZ3.png)
+![My Desktop]({{ site.url }}/assets/images/minimalism-osx/desktop.png)
 
 Довольно скучно, но мне по нраву.
 

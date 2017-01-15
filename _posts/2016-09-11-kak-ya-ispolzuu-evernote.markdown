@@ -3,7 +3,7 @@ layout: post
 title:  "Как я использую Evernote"
 date:   2016-09-11 09:00:00 +0900
 ---
-![evernote](http://i.imgur.com/2X9SDlD.jpg)
+![Evernote logo]({{ site.url }}/assets/images/evernote/logo.jpg)
 
 ## Введение
 
@@ -18,7 +18,7 @@ date:   2016-09-11 09:00:00 +0900
 - $bullet journal 2016;
 - archieved.
 
-![notebooks](http://i.imgur.com/xgPCyhZ.png)
+![Notebooks]({{ site.url }}/assets/images/evernote/screenshot-1.png)
 
 Не создавайте много блокнотов по типу: personal, dev, project_1, project_2 etc. Удобнее пользоваться тегами, хотя бы потому, что их можно бесконечно вкладывать в друг друга.
 
@@ -40,7 +40,7 @@ date:   2016-09-11 09:00:00 +0900
 
 ## Теги
 
-![tags](http://i.imgur.com/7etFStP.png)
+![Tags]({{ site.url }}/assets/images/evernote/screenshot-2.png)
 
 Подобной структурой тегов я вдохновился из этой [статьи](https://michaelhyatt.com/evernote-tags.html).
 *_what* состоит из 7 дочерних тегов, у которых тоже есть дочерние теги. Об этих семи по порядку:
@@ -107,7 +107,7 @@ date:   2016-09-11 09:00:00 +0900
 - В виде фотографии или диктофонной записи;
 - Просто в виде текстовой заметки.
 
-![bookmarks](http://i.imgur.com/Iujv85h.png)
+![Bookmarks]({{ site.url }}/assets/images/evernote/screenshot-3.png)
 
 В течение недели по ходу серфинга по вебу, работы или изучения чего-либо добавляю ссылки в закладки браузера, фотографирую документы или добавляю в избранное посты в твиттере. Не заморачиваюсь насчет структурирования заметок до конца недели.
 
@@ -115,11 +115,11 @@ date:   2016-09-11 09:00:00 +0900
 
 В субботу или воскресенье уделяю перемещению закладок из браузера в Evernote и сортировке всех записей в блокноте *!inbox* полчаса. Во время этого процесса удаляю лишнее, расставляю теги (прелесть в том, что заметка может иметь несчетное количество тегов), в твиты с картинками добавляю оные в заметку. Статьи стараюсь сохранять с помошью расширения *Web Clipper* в формате simple article, youtube видео идут в формате youtube (стоило бы сохранять сами видео в заметку), остальное идет как просто link.
 
-![web-clipper](http://i.imgur.com/tNcPpX8.png)
+![Web clipper]({{ site.url }}/assets/images/evernote/screenshot-4.png)
 
-![inbox-1](http://i.imgur.com/QMDk1G2.png)
+![Inbox-1]({{ site.url }}/assets/images/evernote/screenshot-5.png)
 
-![inbox-2](http://i.imgur.com/smjubBV.png)
+![Inbox-2]({{ site.url }}/assets/images/evernote/screenshot-6.png)
 
 ### Шаг 3
 
