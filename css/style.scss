@@ -1,0 +1,139 @@
+---
+---
+
+@import 'bootstrap';
+@import 'syntax';
+
+$font-stack-sans-serif: "Helvetica Neue", Arial, sans-serif;
+$font-stack-monospace: Monaco, "Courier New", monospace;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: #ffffff;
+  margin-bottom: 60px;
+  font-family: $font-stack-sans-serif;
+}
+
+body {
+  >.container {
+    padding-top: 0px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3F3E59;
+  font-weight: normal;
+}
+
+a, a:focus {
+  color: #00be98;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #0095e2;
+  text-decoration: none;
+}
+
+p, div {
+  font-size: 16px;
+}
+
+img {
+  width: 100%;
+}
+
+.container > p {
+  padding-top: 20px;
+}
+
+.navbar-default,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:focus {
+  background-color: #584B4F;
+  color: #efeae1;
+}
+
+.navbar-default .navbar-brand {
+  color: #efeae1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #7DC08B;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #efeae1;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 300;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #7DC08B;
+}
+
+.text-muted {
+  font-size: 13px;
+}
+
+.text-muted, .text-muted > a {
+  color: #3f3e59;
+  line-height: 26px;
+}
+
+.text-muted > a:hover {
+  text-decoration: none;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.footer > .container > .footer-text {
+  font-size: 13px;
+  color: #3f3e59;
+  margin: 0;
+}
+
+.glyphicon-calendar, .glyphicon-tag {
+  font-size: 16px;
+}
+
+.post-date, .post-tags, .post-title {
+  display: inline;
+  font-size: 18px;
+}
+
+.post-date {
+  font-family: $font-stack-monospace;
+  color: #584B4F;
+}
+
+.year {
+  font-family: $font-stack-monospace;
+  font-size: 18px;
+  color: #584B4F;
+  margin-top: 15px;
+}
+
+.post-tags, .post-title {
+  margin-left: 15px;
+}
+
+.post-tags a {
+  color: #584B4F;
+}
+
+.post-tags a:hover {
+  color: #00be98;
+}

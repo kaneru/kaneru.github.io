@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}{% endunless %}
+    <p class="year">{{ currentdate }}</p>
+    {% assign date = currentdate %}
+  {% endif %}
+    <div class="post">
+      <div class="post-date">{{ post.date | date: "%d %b" }}</div>
+      <div class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+    </div>
+    {% if forloop.last %}
+  {% endif %}
+{% endfor %}
