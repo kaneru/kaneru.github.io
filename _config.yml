@@ -11,6 +11,8 @@ description: > # this means to ignore newlines until "note:"
 path: ''
 url:  'https://kaneru.github.io'
 
+disqus: 'kaneru-blog'
+
 permalink: :title/
 
 markdown: kramdown

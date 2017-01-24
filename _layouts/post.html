@@ -7,3 +7,6 @@ layout: default
   {{ page.date | date: "%d %b, %Y %H:%M" }}&nbsp;
 </p>
 {{ content }}
+{% if site.disqus %}
+  {% include disqus.html %}
+{% endif %}
