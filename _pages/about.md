@@ -19,5 +19,5 @@ Also I watch anime and movies, read books & comic books, listen to music, take u
 - [instagram](https://www.instagram.com/kaneru_)
 - [vk](https://vk.com/kaneru)
 - [myanimelist](http://myanimelist.net/animelist/kaneru_)
-- [kinopoisk](https://www.kinopoisk.ru/user/13850094)
+- [letterboxd](http://letterboxd.com/kaneru/)
 - [lastfm](https://www.last.fm/user/kaneru_)
