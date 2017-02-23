@@ -10,7 +10,7 @@ Ruby/Rails, JavaScript, C, Python and Bash enthusiast.
 
 Also I watch anime and movies, read books & comic books, listen to music, take up photography and do some jogging.
 
-- e-mail: anatoly [dot] gulyaev [at] gmail [dot] com
+- e-mail: kaneru [at] protonmail [dot] com
 - [twitter](https://twitter.com/kaneru__)
 - [telegram](https://telegram.me/kaneru)
 - [github](https://github.com/kaneru)
