@@ -11,6 +11,7 @@ Ruby/Rails, JavaScript, C, Python and Bash enthusiast.
 Also I watch anime and movies, read books & comic books, listen to music, take up photography and do some jogging.
 
 - e-mail: kaneru [at] protonmail [dot] com
+- xmpp: kaneru [at] neko [dot] im
 - [twitter](https://twitter.com/kaneru__)
 - [telegram](https://telegram.me/kaneru)
 - [github](https://github.com/kaneru)
