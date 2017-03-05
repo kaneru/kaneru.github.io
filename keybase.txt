@@ -6,18 +6,18 @@ I hereby claim:
 
   * I am an admin of https://kaneru.github.io
   * I am kaneru (https://keybase.io/kaneru) on keybase.
-  * I have a public key with fingerprint 0D99 1EE7 7717 00DE A0C7  270F 1ABC 6221 BBDA 03B0
+  * I have a public key with fingerprint B77E FB37 7B98 7498 0725  1230 F674 85D4 D43F A2C8
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "0101021e215d25d8a642815b70f35d50ab8fb0beff8cd35d31ed7da4e5c715ac25f40a",
-            "fingerprint": "0d991ee7771700dea0c7270f1abc6221bbda03b0",
+            "eldest_kid": "01015ebc6fceb9fb669c80422a54c041adf72fbe85a21b9ea537c0926ded60cf0f530a",
+            "fingerprint": "b77efb377b98749807251230f67485d4d43fa2c8",
             "host": "keybase.io",
-            "key_id": "1abc6221bbda03b0",
-            "kid": "0101021e215d25d8a642815b70f35d50ab8fb0beff8cd35d31ed7da4e5c715ac25f40a",
+            "key_id": "f67485d4d43fa2c8",
+            "kid": "01015ebc6fceb9fb669c80422a54c041adf72fbe85a21b9ea537c0926ded60cf0f530a",
             "uid": "b0d58ce372e6e0977d1309d58941c619",
             "username": "kaneru"
         },
@@ -28,10 +28,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1488719011,
+    "ctime": 1488721678,
     "expire_in": 157680000,
-    "prev": "65d0f20c8e370486c0402a5c3f6c637f65df774bee00f5adeeb2a062588cb3a3",
-    "seqno": 31,
+    "prev": "b6b12d3dc86ecc0608e7f59cc515b3544f9d6f7fde06c2e2de3a35c73e57d2f9",
+    "seqno": 37,
     "tag": "signature"
 }
 
@@ -41,23 +41,23 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.64
 Comment: https://keybase.io/crypto
 
-yMInAnicrVJrSFRBFF7LCqWoDOyFkReJUrOZ+5q7S0SY0UMTKhKNlWXmztz16nZ3
-vXt3e6hEhWWJYFIUSQQZVD8yjMTo6SN6U1EhBGFJL4IeZEqgRc21+hH0s5kfw5zz
-ne983+FcnzTWk5xw7koznlaxaXbC3a4jMU/x5YktVQIJ062Cr0qoYKMPC1EWdQIV
-JhV8AoD8ipCJUKGiQjWsyqIGFYKAISlUAZhoBgGEGYamUx6RIKOIYpkpOoIK1kXF
-kAEWsgXDtILMjtim5bi01OuFjCGEIAKAMgx0JHJOiImuiiIkhGIgEcALy8JRt4KL
-IzjKcswwj/FPYFTeP/D/WXdslI4Aqmg6k5DIVAa8CFEoAS+PeWWoq9DrAqPMtvAm
-5mrFFrNjQk22wGNxU2fuWF0ff+VzgqZTFiO/HEXssBPWwyGeLXOcSNTnVjtbIy58
-MyOB30QBYlqUT5JXxJkdNcOW4IMcqTumywxlTUPQCyDMFtiWiGmzgOkiFKRqgB+3
-D4tzSlWhwBCBrnFLQNZUHchAxIouGaquSsjgeQMhmTAGgKFgyhgRMVBFRdN0ImFJ
-cK1VWmHBJ/FWDg5yzqgZtLATs5lQ093pT/QkJHvGjxvjrpgnOWnKn8VL0yf8qDms
-luwf2lX8Ne9+Qah/Yf7I8NLYwHN/Y7z70vflT5ofFlSlp144MGPDnsOL4g1JA59q
-i6adbr04vSTj1ondtWd72us/NWiZka6yljrs9PeJYvmr5AOJ8vpOUCkPrexHjXkp
-F/sasl6OndeTbnXO7bYHP+QuuPr5yM1rbxKGffkHq/dVxzK/+5c8mnk1c+mZhsRQ
-+bfjXUeNgtvLFoe2zc+uT6otndU9Nzp1UnPTi7eemsIpJ8+vvr2irvDpYza+6EFl
-e25K+er3/qHU4uqO0jvNx5o2vl5lFt3IX7c3x+582Nvx7Mvjtb0fK+S2HTvXj0zO
-am0Dpy+lnUrd/u7QHM/gvTUDLRk/AfowQ1s=
-=QnGr
+yMIpAnicrVJZSBVRGL7XbHOJCsuyMBttg1udWc/MhQqi5cUliTKwus1Z5jqYM9c7
+c83K64NgvmiSEaJkWGAPtke2YEhpRGX4YNliEi30kEgUlZWSNWP1EPTYeTmc//++
+73zfz38rcYInzls2L3Hl2e7Vi7zdNxsjnm3Xk6ftZ5BJ9jL+/UwhHb/obkItO1Co
+E8bPABawIkVY0jBFioYkScEyEDhOFQUMBFYlGuQ0RGVR5VikUFXkIQYKJxFKJIA1
+oIk8UBkfo+lGkIZDYd2wHVkEIdUQDyFSZCgoMoCcyHI80CQoyCIRiMBrKodlh1hg
+Wi7DMYdUi67QTafmPALj9v6B/8++I+NyCBBRxpSHHJUoUCAkLA8Up6YILJZYxQVa
+NGyoRdT1qho0HGGiPsapleiYumN1c/zVXxHU7YII+pUoFDZtE5u7nW6BbYcsv8u2
+94Zc+B6KAr+FAkg3iDNJh1FCw5ZuGoyfdZDY1l1lVpBlyLESlH0MLQ3pYRrQXYQI
+JRk4x/2Hlrh5JMRyhCdYlijGQAIyhZqoYCyyIuJFQdAUImlQIxRImKMcobzKixjy
+VISE09y8Fi02TMbPQ8enGnQ0LT1oqHYkTJlo543tsR5vnGfSxBh3xTxxU6f/Wbyq
+vsk/ctLfdJXtK+1MBVuTa+d+5DNaqnuMjRPmxvNXR7tTuAMVI5762XZ/VcaC89HP
+hx7ke18Vti48aGX5fOy7OfXt5acOJ2VvSkv6MDxaufz9qseDKKVoXn9Z/4tn64NP
+e3NA/tJ37WNfq9HdLz+WpdTEz6zIa/nw+vOT9ttHS03mPijM7zCbEovb5sO02LzK
+C7PvXUNj8SfPDOQ9375BHrizJFo1JXWH3PvRm/D6+/KHeZfeCp0zcheXP97SfGTy
+y3XpQ82X+xo7+s3OkYKanV0Vek9HbW704mDCgK8us6Hhyqc1+7zDI5uJ/01WsG0W
+n5idea44pun4t7qxR2rrsbW7hk6cJj8BAqtC7g==
+=Zsw1
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
