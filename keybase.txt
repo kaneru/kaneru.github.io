@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kaneru
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaneru.github.io
+  * I am kaneru (https://keybase.io/kaneru) on keybase.
+  * I have a public key with fingerprint 0D99 1EE7 7717 00DE A0C7  270F 1ABC 6221 BBDA 03B0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101021e215d25d8a642815b70f35d50ab8fb0beff8cd35d31ed7da4e5c715ac25f40a",
+            "fingerprint": "0d991ee7771700dea0c7270f1abc6221bbda03b0",
+            "host": "keybase.io",
+            "key_id": "1abc6221bbda03b0",
+            "kid": "0101021e215d25d8a642815b70f35d50ab8fb0beff8cd35d31ed7da4e5c715ac25f40a",
+            "uid": "b0d58ce372e6e0977d1309d58941c619",
+            "username": "kaneru"
+        },
+        "service": {
+            "hostname": "kaneru.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1488719011,
+    "expire_in": 157680000,
+    "prev": "65d0f20c8e370486c0402a5c3f6c637f65df774bee00f5adeeb2a062588cb3a3",
+    "seqno": 31,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJrSFRBFF7LCqWoDOyFkReJUrOZ+5q7S0SY0UMTKhKNlWXmztz16nZ3
+vXt3e6hEhWWJYFIUSQQZVD8yjMTo6SN6U1EhBGFJL4IeZEqgRc21+hH0s5kfw5zz
+ne983+FcnzTWk5xw7koznlaxaXbC3a4jMU/x5YktVQIJ062Cr0qoYKMPC1EWdQIV
+JhV8AoD8ipCJUKGiQjWsyqIGFYKAISlUAZhoBgGEGYamUx6RIKOIYpkpOoIK1kXF
+kAEWsgXDtILMjtim5bi01OuFjCGEIAKAMgx0JHJOiImuiiIkhGIgEcALy8JRt4KL
+IzjKcswwj/FPYFTeP/D/WXdslI4Aqmg6k5DIVAa8CFEoAS+PeWWoq9DrAqPMtvAm
+5mrFFrNjQk22wGNxU2fuWF0ff+VzgqZTFiO/HEXssBPWwyGeLXOcSNTnVjtbIy58
+MyOB30QBYlqUT5JXxJkdNcOW4IMcqTumywxlTUPQCyDMFtiWiGmzgOkiFKRqgB+3
+D4tzSlWhwBCBrnFLQNZUHchAxIouGaquSsjgeQMhmTAGgKFgyhgRMVBFRdN0ImFJ
+cK1VWmHBJ/FWDg5yzqgZtLATs5lQ093pT/QkJHvGjxvjrpgnOWnKn8VL0yf8qDms
+luwf2lX8Ne9+Qah/Yf7I8NLYwHN/Y7z70vflT5ofFlSlp144MGPDnsOL4g1JA59q
+i6adbr04vSTj1ondtWd72us/NWiZka6yljrs9PeJYvmr5AOJ8vpOUCkPrexHjXkp
+F/sasl6OndeTbnXO7bYHP+QuuPr5yM1rbxKGffkHq/dVxzK/+5c8mnk1c+mZhsRQ
++bfjXUeNgtvLFoe2zc+uT6otndU9Nzp1UnPTi7eemsIpJ8+vvr2irvDpYza+6EFl
+e25K+er3/qHU4uqO0jvNx5o2vl5lFt3IX7c3x+582Nvx7Mvjtb0fK+S2HTvXj0zO
+am0Dpy+lnUrd/u7QHM/gvTUDLRk/AfowQ1s=
+=QnGr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaneru
+
+==================================================================
