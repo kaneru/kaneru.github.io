@@ -12,7 +12,6 @@ Also I watch anime and movies, read books & comic books, listen to music, take u
 
 - e-mail: kaneru [at] protonmail [dot] com
 - xmpp: kaneru [at] neko [dot] im
-- [twitter](https://twitter.com/kaneru__)
 - [github](https://github.com/kaneru)
 - [goodreads](https://www.goodreads.com/kaneru)
 - [flickr](https://www.flickr.com/photos/kaneru)
@@ -21,5 +20,4 @@ Also I watch anime and movies, read books & comic books, listen to music, take u
 - [myanimelist](https://myanimelist.net/animelist/kaneru_)
 - [letterboxd](https://letterboxd.com/kaneru/)
 - [lastfm](https://www.last.fm/user/kaneru_)
-- [tumblr](https://asjkhdjs.tumblr.com)
 - [soundcloud](https://soundcloud.com/kaneru)
