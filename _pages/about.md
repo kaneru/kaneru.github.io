@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Anatoly Gulyaev. I'm a hobbyist web developer and an applied mathematics undergraduate student from Russia.
+Привет, меня зовут Анатолий Гуляев. Я разработчик-любитель и студент кафедры "Прикладная математика" по специальности "Математическое моделирование". Живу в России.
 
-Ruby/Rails, JavaScript, C, Python and Bash enthusiast.
+Энтузиаст в следующих языках и фреймворках: Ruby/Rails, JavaScript, C, Python и Bash.
 
-Also I watch anime and movies, read books & comic books, listen to music, take up photography and do some jogging.
+В свободное время от учебы смотрю фильмы и аниме, читаю книги и комиксы, слушаю музыку, фотографирую и иногда бегаю.
 
 - e-mail: kaneru [at] protonmail [dot] com
 - xmpp: kaneru [at] neko [dot] im
