@@ -78,4 +78,6 @@ $ ln -s ~/app/shared/public/system/ ~/app/current/public/system/
 
 # updates
 
-[upd1 10-11-2016]: добавил разделы про *db:migrate:reset* и *paperclip и mina*
+Апдейт (10 Ноября 2016):
+
+  - добавил разделы про *db:migrate:reset* и *paperclip и mina*.
