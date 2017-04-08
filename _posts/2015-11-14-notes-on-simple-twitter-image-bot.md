@@ -2,6 +2,7 @@
 layout: post
 title:  "Notes on simple Twitter image bot"
 date:   2015-11-14 20:28:59 +0900
+tags: twitter python
 ---
 ## source code
 

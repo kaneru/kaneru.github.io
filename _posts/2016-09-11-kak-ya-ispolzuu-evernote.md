@@ -2,6 +2,7 @@
 layout: post
 title:  "Как я использую Evernote"
 date:   2016-09-11 09:00:00 +0900
+tags: evernote
 ---
 ![Evernote logo]({{ site.url }}/assets/images/evernote/logo.jpg)
 

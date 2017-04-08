@@ -2,6 +2,7 @@
 layout: post
 title:  "Image processing using NumPy and SciPy"
 date:   2015-11-27 20:11:59 +0900
+tags: python
 ---
 ## script
 

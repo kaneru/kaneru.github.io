@@ -2,6 +2,7 @@
 layout: post
 title:  "How to download liked photos on instagram"
 date:   2016-11-30 20:01:00 +0900
+tags: instagram
 ---
 8 easy steps to download instagram photos:
 

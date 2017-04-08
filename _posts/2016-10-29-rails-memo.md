@@ -2,6 +2,7 @@
 layout: post
 title:  "rails memo"
 date:   2016-10-29 00:17:00 +0900
+tags: rails
 ---
 Заметки по Rails.
 

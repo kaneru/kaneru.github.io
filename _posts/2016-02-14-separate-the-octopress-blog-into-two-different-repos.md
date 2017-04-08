@@ -2,6 +2,7 @@
 layout: post
 title:  "Separate the Octopress blog into two different repos"
 date:   2016-02-14 09:00:00 +0900
+tags: octopress blog github
 ---
 My blog is running on octopress + github pages, so at first I had in my [blog repo](https://github.com/johnnykernel/johnnykernel.github.io) two branches:
 
