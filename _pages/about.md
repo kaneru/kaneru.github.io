@@ -1,23 +1,23 @@
 ---
 layout: page
-title: About
+title: Об авторе
 permalink: /about/
 ---
 
 Привет, меня зовут Анатолий Гуляев. Я разработчик-любитель и студент кафедры "Прикладная математика" по специальности "Математическое моделирование". Живу в России.
 
-Энтузиаст в следующих языках и фреймворках: Ruby/Rails, JavaScript, C, Python и Bash.
+Энтузиаст в следующих языках и фреймворках: Руби/Рэйлс, ДжаваСкрипт, Си, Пайтон и Баш.
 
 В свободное время от учебы смотрю фильмы и аниме, читаю книги и комиксы, слушаю музыку, фотографирую и иногда бегаю.
 
-- e-mail: kaneru [at] protonmail [dot] com
+- Эл. почта: kaneru [at] protonmail [dot] com
 - xmpp: kaneru [at] neko [dot] im
-- [github](https://github.com/kaneru)
-- [goodreads](https://www.goodreads.com/kaneru)
-- [flickr](https://www.flickr.com/photos/kaneru)
-- [instagram](https://www.instagram.com/kaneru_)
-- [vk community public page](https://vk.com/asian_architecture)
-- [myanimelist](https://myanimelist.net/animelist/kaneru_)
-- [letterboxd](https://letterboxd.com/kaneru/)
-- [lastfm](https://www.last.fm/user/kaneru_)
-- [soundcloud](https://soundcloud.com/kaneru)
+- [github.com/kaneru](https://github.com/kaneru)
+- [www.goodreads.com/kaneru](https://www.goodreads.com/kaneru)
+- [www.flickr.com/photos/kaneru](https://www.flickr.com/photos/kaneru)
+- [www.instagram.com/kaneru_](https://www.instagram.com/kaneru_)
+- [vk.com/asian_architecture](https://vk.com/asian_architecture)
+- [myanimelist.net/animelist/kaneru_](https://myanimelist.net/animelist/kaneru_)
+- [letterboxd.com/kaneru/](https://letterboxd.com/kaneru/)
+- [www.last.fm/user/kaneru_](https://www.last.fm/user/kaneru_)
+- [soundcloud.com/kaneru](https://soundcloud.com/kaneru)

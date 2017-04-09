@@ -4,7 +4,7 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="text-muted">
   <span class="glyphicon glyphicon-calendar"></span>
-  {{ page.date | date: "%d %b, %Y %H:%M" }}&nbsp;
+  {{ page.date | date: "%d/%m/%Y %H:%M" }}&nbsp;
   <span class="glyphicon glyphicon-tag"></span>
   {% for tag in page.tags %}
     <a href="/tags#{{ tag }}" class="tag">{{ tag }}</a>
