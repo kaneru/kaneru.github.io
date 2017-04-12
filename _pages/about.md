@@ -10,14 +10,15 @@ permalink: /about/
 
 В свободное время от учебы смотрю фильмы и аниме, читаю книги и комиксы, слушаю музыку, фотографирую и иногда бегаю.
 
-- Эл. почта: kaneru [at] protonmail [dot] com
+- эл. почта: kaneru [at] protonmail [dot] com
 - xmpp: kaneru [at] neko [dot] im
-- [github.com/kaneru](https://github.com/kaneru)
-- [www.goodreads.com/kaneru](https://www.goodreads.com/kaneru)
-- [www.flickr.com/photos/kaneru](https://www.flickr.com/photos/kaneru)
-- [www.instagram.com/kaneru_](https://www.instagram.com/kaneru_)
-- [vk.com/asian_architecture](https://vk.com/asian_architecture)
-- [myanimelist.net/animelist/kaneru_](https://myanimelist.net/animelist/kaneru_)
-- [letterboxd.com/kaneru/](https://letterboxd.com/kaneru/)
-- [www.last.fm/user/kaneru_](https://www.last.fm/user/kaneru_)
-- [soundcloud.com/kaneru](https://soundcloud.com/kaneru)
+- [твиттер](https://twitter.com/kaneru__)
+- [гитхаб](https://github.com/kaneru)
+- [гудридс](https://www.goodreads.com/kaneru)
+- [фликр](https://www.flickr.com/photos/kaneru)
+- [инстаграм](https://www.instagram.com/kaneru_)
+- [азиатская архитектура](https://vk.com/asian_architecture)
+- [майанимелист](https://myanimelist.net/animelist/kaneru_)
+- [леттербоксд](https://letterboxd.com/kaneru/)
+- [ластфм](https://www.last.fm/user/kaneru_)
+- [саундклауд](https://soundcloud.com/kaneru)
