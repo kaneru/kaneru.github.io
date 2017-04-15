@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bootstrap flash notice on Rails"
-date:   2016-09-08 09:00:00 +0900
+date:   2016-09-08 09:00:00
 tags: rails
 ---
 In `views/layouts/application.html.erb` add following line after header:

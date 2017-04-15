@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on how to write tiny terminal Twitter write-only client"
-date:   2015-09-09 20:28:59 +0900
+date:   2015-09-09 20:28:59
 tags: twitter ruby
 ---
 ## installing ruby and twitter api

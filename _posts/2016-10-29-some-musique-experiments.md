@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some musique experiments"
-date:   2016-10-29 22:22:00 +0900
+date:   2016-10-29 22:22:00
 tags: music
 ---
 Добавил в [archive.org](https://archive.org) свои эксперименты с музыкой.

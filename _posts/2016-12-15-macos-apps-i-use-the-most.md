@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "macOS apps I use the most"
-date:   2016-12-15 20:58:00 +0900
+date:   2016-12-15 20:58:00
 tags: osx
 ---
 This post is inspired by this [repository](https://github.com/nikitavoloboev/my-mac-os). The author describes his macOS apps stack he uses the most. But I don’t see the point of having so many apps. At least 5 paid apps he owns can be replaced by only Evernote which is freemium. Many of those apps have a free (web) alternative. I highly recommend to use open-source apps. And also never use pirated macOS apps.

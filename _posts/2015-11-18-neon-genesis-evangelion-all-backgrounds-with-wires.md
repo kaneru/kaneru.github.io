@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neon Genesis Evangelion: all backgrounds with wires"
-date:   2015-11-18 20:11:59 +0900
+date:   2015-11-18 20:11:59
 tags: anime
 ---
 # Description
