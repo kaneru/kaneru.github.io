@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Об авторе
+title: Обо мне
 permalink: /about/
 ---
 
