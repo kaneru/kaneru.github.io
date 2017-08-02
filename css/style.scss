@@ -106,11 +106,11 @@ img {
   margin: 0 0 5px 0;
 }
 
-.glyphicon-calendar, .glyphicon-tag {
+.glyphicon-calendar {
   font-size: 16px;
 }
 
-.post-date, .post-tags, .post-title {
+.post-date, .post-title {
   display: inline;
   font-size: 18px;
 }
@@ -128,14 +128,7 @@ img {
   margin-top: 15px;
 }
 
-.post-tags, .post-title {
+.post-title {
   margin-left: 10px;
 }
 
-.post-tags a {
-  color: #584B4F;
-}
-
-.post-tags a:hover {
-  color: #00be98;
-}
