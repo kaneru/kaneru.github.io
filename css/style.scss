@@ -4,8 +4,7 @@
 @import 'bootstrap';
 @import 'syntax';
 
-$font-stack-sans-serif: "Helvetica Neue", Arial, sans-serif;
-$font-stack-monospace: Monaco, "Courier New", monospace;
+$font-stack-serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
 html {
   position: relative;
@@ -15,28 +14,28 @@ html {
 body {
   background-color: #ffffff;
   margin-bottom: 60px;
-  font-family: $font-stack-sans-serif;
+  font-family: $font-stack-serif;
 }
 
 body {
   >.container {
     padding-top: 0px;
-    padding-bottom: 30px;
+    padding-bottom: 5px;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3F3E59;
+  color: #333333;
   font-weight: normal;
 }
 
 a, a:focus {
-  color: #00be98;
+  color: #E53A40;
   text-decoration: none;
 }
 
 a:hover{
-  color: #0095e2;
+  color: #30A9DE;
   text-decoration: none;
 }
 
@@ -52,40 +51,38 @@ img {
   padding-top: 20px;
 }
 
-.navbar-default,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-nav > li > a:focus {
-  background-color: #584B4F;
-  color: #efeae1;
+.header {
+  margin-top: 15px;
 }
 
-.navbar-default .navbar-brand {
-  color: #efeae1;
-  font-size: 20px;
-  font-weight: bold;
+.header-title {
+  font-size: 28px;
 }
 
-.navbar-default .navbar-brand:hover {
-  color: #7DC08B;
+.header a {
+  color: #333333;
 }
 
-.navbar-default .navbar-nav > li > a {
-  color: #efeae1;
-  font-size: 14px;
-  line-height: 22px;
-  font-weight: 300;
+#header-list {
+  padding: 10px 0 0 0;
 }
 
-.navbar-default .navbar-nav > li > a:hover {
-  color: #7DC08B;
+#header-list li {
+  list-style-type: none;
+  display: inline;
+  padding: 0 20px 0 0;
+}
+
+#header-list li > a {
+  font-size: 18px;
 }
 
 .text-muted {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .text-muted, .text-muted > a {
-  color: #3f3e59;
+  color: #6E7783;
   line-height: 26px;
 }
 
@@ -100,13 +97,13 @@ img {
 }
 
 .footer > .container > .footer-text {
-  font-size: 13px;
-  color: #3f3e59;
+  font-size: 14px;
+  color: #333333;
   margin: 0 0 5px 0;
 }
 
-.glyphicon-calendar {
-  font-size: 16px;
+.post a {
+  color: #333333;
 }
 
 .post-date, .post-title {
@@ -115,16 +112,8 @@ img {
 }
 
 .post-date {
-  font-family: $font-stack-monospace;
   font-size: 17px;
-  color: #584B4F;
-}
-
-.year {
-  font-family: $font-stack-monospace;
-  font-size: 18px;
-  color: #584B4F;
-  margin-top: 15px;
+  color: #6E7783;
 }
 
 .post-title {

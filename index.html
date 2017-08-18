@@ -5,11 +5,11 @@ layout: default
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}{% endunless %}
-    <p class="year">{{ currentdate }}</p>
+      <br/>
     {% assign date = currentdate %}
   {% endif %}
     <div class="post">
-      <div class="post-date">{{ post.date | date: "%d/%m" }}</div>
+      <div class="post-date">{{ post.date | date: "%d/%m/%Y" }}</div>
       <div class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
     </div>
     {% if forloop.last %}

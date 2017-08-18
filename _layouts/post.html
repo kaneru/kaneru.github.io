@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="text-muted">
-  <span class="glyphicon glyphicon-calendar"></span>
-  {{ page.date | date: "%d/%m/%Y %H:%M" }}&nbsp;
+<h2 class="text-center">{{ page.title }}</h2>
+<p class="text-muted text-center">
+  {{ page.date | date: "%d/%m/%Y" }}&nbsp;
 </p>
 {{ content }}
