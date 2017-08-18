@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to download liked photos on instagram"
+title:  "How to download photos you liked from instagram"
 date:   2016-11-30 20:01:00
 tags: instagram
 ---
