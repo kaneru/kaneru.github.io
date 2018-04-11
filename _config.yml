@@ -31,6 +31,6 @@ lsi: false
 
 include: [_pages]
 
-gems: [rouge, jekyll-sitemap, jekyll-feed]
+plugins: [rouge, jekyll-sitemap, jekyll-feed]
 
 future: true
