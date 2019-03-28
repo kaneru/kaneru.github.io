@@ -1,8 +1,10 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <article>
     <header>
       <p>{{ post.date | date: "%d/%m/%Y" }}</p>
@@ -11,3 +13,18 @@ layout: default
     {{ post.content }}
   </article>
 {% endfor %}
+
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <div class="prev">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
+      </div>
+    {% endif %}
+    {% if paginator.next_page %}
+      <div class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
+      </div>
+    {% endif %}
+  </div>
+{% endif %}
