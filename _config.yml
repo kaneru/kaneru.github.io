@@ -1,9 +1,7 @@
-title: 'kaneru'
+title: 'Блог Анатолия Гуляева'
 author: 'Анатолий Гуляев'
 description: > # this means to ignore newlines until "note:"
-  Blog of some
-  hobbyist web developer and an applied mathematics
-  undergraduate student from Russia.
+  Блог Анатолия Гуляева. Тут в основном пишу свои наблюдения и заметки.
 
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
@@ -18,10 +16,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
-
-sass:
-  sass_dir: css
-  style:    expanded
 
 exclude:
 - README.md
