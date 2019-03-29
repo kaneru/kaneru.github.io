@@ -4,9 +4,10 @@ title:  "rails memo"
 date:   2016-10-29 00:17:00
 tags: rails
 ---
+
 Заметки по Rails.
 
-# assets:precompile
+## assets:precompile
 
 На слабом VDS команда `rails assets:precompile` может иногда не выполнятся, т.к. не хватает оперативной памяти. Решения:
 
@@ -16,7 +17,7 @@ tags: rails
 
 [(moar)](http://stackoverflow.com/questions/14991365/command-failed-with-status-when-precompiling-assets)
 
-# static pages
+## static pages
 
 Для создания статичных страниц необходимо выполнить следующее:
 
@@ -49,13 +50,13 @@ Rails.application.routes.draw do
 end
 ```
 
-# nil? vs if true vs empty? vs blank?
+## nil? vs if true vs empty? vs blank?
 
 ![nil]({{ site.url }}/assets/images/rails-memo/nil.png)
 
 [source](http://stackoverflow.com/questions/885414/a-concise-explanation-of-nil-v-empty-v-blank-in-ruby-on-rails)
 
-# db:migrate:reset
+## db:migrate:reset
 
 ```bash
 $ rails db:migrate:reset
@@ -63,7 +64,7 @@ $ rails db:migrate:reset
 
 Как-то раз в `schema.rb` в таблицу `posts` затесалась лишняя колонка из другой ветки. В миграциях этой колонки не было, поэтому с помощью этой команды можно ресетнуть БД. Команда эквивалентна следующему: `$ rails db:drop db:create db:migrate`.
 
-# дружим paperclip и mina при деплое
+## дружим paperclip и mina при деплое
 
 Нужно отредактировать файл *config/deploy.rb* следующим образом:
 
@@ -77,7 +78,7 @@ set :shared_paths, ['config/database.yml', 'config/secrets.yml', 'log', 'public/
 $ ln -s ~/app/shared/public/system/ ~/app/current/public/system/
 ```
 
-# updates
+## updates
 
 Апдейт (10 Ноября 2016):
 

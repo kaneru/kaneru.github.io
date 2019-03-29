@@ -4,6 +4,7 @@ title:  "Image processing using NumPy and SciPy"
 date:   2015-11-27 20:11:59
 tags: python
 ---
+
 ## script
 
 little script written in python that sort an image array by column:
@@ -23,8 +24,6 @@ scipy.misc.imsave('outimage.jpg', a)
 
 ## examples
 
-![Japan]({{ site.url }}/assets/images/image-processing/japan.jpg)
-
-![Anime girl]({{ site.url }}/assets/images/image-processing/grill.jpg)
-
-![Lake]({{ site.url }}/assets/images/image-processing/lake.jpg)
+<figure><img src="{{ site.url }}/assets/images/image-processing/japan.jpg" alt="Japan"></figure>
+<figure><img src="{{ site.url }}/assets/images/image-processing/grill.jpg" alt="Anime girl"></figure>
+<figure><img src="{{ site.url }}/assets/images/image-processing/lake.jpg" alt="Lake"></figure>
