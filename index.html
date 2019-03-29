@@ -18,12 +18,12 @@ pagination:
   <div class="pagination">
     {% if paginator.previous_page %}
       <div class="prev">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Позднее</a>
       </div>
     {% endif %}
     {% if paginator.next_page %}
       <div class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Ранее →</a>
       </div>
     {% endif %}
   </div>
