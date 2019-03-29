@@ -17,7 +17,6 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable: true
-highlighter: none
 
 pagination:
   enabled: true
