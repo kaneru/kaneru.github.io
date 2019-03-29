@@ -1,8 +1,9 @@
 title: 'Блог Анатолия Гуляева'
 author: 'Анатолий Гуляев'
+keywords: 'kaneru, блог, продуктивность, лайфлист, программирование, фронт-енд'
 description: > # this means to ignore newlines until "note:"
-  Блог Анатолия Гуляева. Тут в основном пишу свои наблюдения и заметки.
-
+  Блог Анатолия Гуляева.
+  Тут в основном пишу свои наблюдения и заметки про программирование, фронт-енд, продуктивность и свою жизнь.
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
