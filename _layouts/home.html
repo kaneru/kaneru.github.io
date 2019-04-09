@@ -8,7 +8,6 @@ layout: default
       <p>{{ post.date | date: "%d/%m/%Y" }}</p>
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
     </header>
-    {{ post.content }}
   </article>
 {% endfor %}
 
