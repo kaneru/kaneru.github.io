@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "note:"
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: ''
-url:  'https://kaneru.github.io'
+url:  'https://kaneru.me'
 
 permalink: :title/
 
