@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /archive/
+---
+
+<h1>Архив</h1>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}{% endunless %}
+      <h3>{{ currentdate }}</h3>
+    {% assign date = currentdate %}
+  {% endif %}
+    <p>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {{ post.date | date: "%d/%m" }}
+    </p>
+    {% if forloop.last %}
+  {% endif %}
+{% endfor %}
