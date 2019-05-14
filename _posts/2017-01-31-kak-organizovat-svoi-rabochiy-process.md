@@ -2,7 +2,7 @@
 layout: post
 title:  "Как организовать свой рабочий процесс?"
 date:   2017-01-31 14:15:00
-tags: gtd
+tags: productivity
 ---
 
 Небольшая заметка, которую я взял [отсюда](https://toster.ru/answer?answer_id=199448#answers_list_answer), чтобы не потерять.

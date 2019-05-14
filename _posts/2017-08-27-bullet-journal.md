@@ -2,6 +2,7 @@
 layout: post
 title: Как я пользуюсь Bullet Journal
 date: 2017-08-27 09:00:00
+tags: bullet-journal
 ---
 
 <figure><img src="{{ site.url }}/assets/images/bullet-journal/1.jpg"></figure>
