@@ -1,3 +1,7 @@
+.post-date-tags {
+  font-size: .8rem;
+}
+
 .pagination {
   display: flex;
   flex-direction: row;

@@ -29,6 +29,8 @@ include: [_pages]
 paginate: 5
 paginate_path: "/page:num/"
 
+tag_page: '/tags/'
+
 plugins: [rouge, jekyll-sitemap, jekyll-feed, jekyll-paginate]
 
 future: true
