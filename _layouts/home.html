@@ -2,14 +2,35 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <article>
     <header>
       <p>{{ post.date | date: "%d/%m/%Y" }}</p>
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
     </header>
+    <div>
+      {{ post.content }}
+    </div>
   </article>
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      ← Позднее
+    </a>
+  {% else %}
+    <span class="previous">Позднее</span>
+  {% endif %}
+  <span class="page_number ">
+    Страница: {{ paginator.page }} из {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Ранее →</a>
+  {% else %}
+    <span class="next ">Ранее</span>
+  {% endif %}
+</div>
 
 <!--
 {% if paginator.total_pages > 1 %}
