@@ -17,7 +17,7 @@ tags: osx
 
 ## Docker tar's
 
-Я пользуюсь self-hosted менеджером закладок Shaarli, docker-образ которого крутиться у меня на системе. О том как создать бэкап docker-образа можно прочитать [здесь](https://linuxconfig.org/docker-container-backup-and-recovery).
+Я пользуюсь self-hosted менеджером закладок Shaarli, docker-образ которого крутится у меня на системе. О том как создать бэкап docker-образа можно прочитать [здесь](https://linuxconfig.org/docker-container-backup-and-recovery).
 
 ## Dotfiles
 
