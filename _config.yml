@@ -34,3 +34,5 @@ tag_page: '/tags/'
 plugins: [rouge, jekyll-sitemap, jekyll-feed, jekyll-paginate]
 
 future: true
+
+timezone: Asia/Yakutsk
