@@ -11,6 +11,11 @@ article header p {
   color: rgba(0,0,0,0.75);
 }
 
+.typo {
+  font-size: .8rem;
+  text-align: center;
+}
+
 .pagination {
   display: flex;
   flex-direction: row;
