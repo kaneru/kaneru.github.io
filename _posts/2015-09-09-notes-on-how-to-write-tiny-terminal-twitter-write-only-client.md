@@ -10,7 +10,7 @@ tags: twitter ruby
 1. Install [ruby](https://www.ruby-lang.org/en/documentation/installation/)
 2. Install [twitter api](https://github.com/sferik/twitter)
 
-```ksh
+```shell
 $ gem install twitter
 ```
 
