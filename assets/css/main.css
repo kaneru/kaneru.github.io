@@ -23,6 +23,13 @@ article header p {
 
 }
 
+.comments {
+  display: block;
+  font-size: 1.15em;
+  margin: 1.25em 0 0;
+  font-weight: 700;
+}
+
 article p,
 article ul,
 article ol,
