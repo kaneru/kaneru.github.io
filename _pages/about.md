@@ -10,15 +10,9 @@ permalink: /about/
 
 В свободное время от работы что-то там делаю.
 
-- эл. почта: kaneru [at] pm [dot] me
+- эл. почта: kaneru [at] fastmail [dot] com
 - [вк](https://vk.com/kaneru)
 - [твиттер](https://twitter.com/kaneru__)
 - [гитхаб](https://github.com/kaneru)
 - [фликр](https://www.flickr.com/photos/kaneru)
-- [инстаграм](https://www.instagram.com/kaneru_)
-- [майанимелист](https://myanimelist.net/animelist/kaneru_)
 - [леттербоксд](https://letterboxd.com/kaneru/)
-- [саундклауд](https://soundcloud.com/kaneru)
-- ~~[гудридс](https://www.goodreads.com/kaneru)~~
-- ~~[ластфм](https://www.last.fm/user/kaneru_)~~
-- ~~[азиатская архитектура](https://vk.com/asian_architecture)~~
