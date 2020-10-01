@@ -11,3 +11,11 @@ The basic idea here is a straight line y=mx+b can be represented as a point (m,b
 • Interpretation of the accumulator to yield lines of infinite length. The interpretation is done by thresholding.
 
 • Conversion of infinite lines to finite lines.
+
+### Results:
+
+##### Input image:
+<img src="">
+
+##### Output Image:
+<img src="">
