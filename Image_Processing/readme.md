@@ -15,7 +15,7 @@ The basic idea here is a straight line y=mx+b can be represented as a point (m,b
 ### Results:
 
 ##### Input image:
-<img src="">
+<img src="https://github.com/amoghatsunil/kaneru.github.io/blob/master/Image_Processing/Images/road.jfif">
 
 ##### Output Image:
-<img src="">
+<img src="https://github.com/amoghatsunil/kaneru.github.io/blob/master/Image_Processing/Images/line_Detected.png">
