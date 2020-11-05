@@ -2,7 +2,7 @@
 layout: post
 title: 'Скрытие и отображение скрытых файлов в Макос'
 date: 2020-11-06 03:52 +09:00
-tags: ['#100DaysToOffload', 'макос', 'TIL']
+tags: ['#100DaysToOffload', 'макос', 'TIL', 'альфред']
 ---
 
 Это Пост 19 из 100 челленджа [#100DaysToOffload]({{ site.url }}/tags/#100daystooffload). Подробнее о челлендже [тут]({{ site.url }}/100-days-to-offload).
