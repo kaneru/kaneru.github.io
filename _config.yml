@@ -10,6 +10,7 @@ path: ''
 url:  'https://kaneru.me'
 twitter_username: 'kaneru__'
 title_image: "/assets/images/title_image.png"
+email: 'kaneru+blog@fastmail.com'
 
 permalink: :title/
 
