@@ -10,7 +10,7 @@ permalink: /about/
 
 В свободное время от работы что-то там делаю.
 
-- эл. почта: kaneru [at] fastmail [dot] com
+- эл. почта: [{{ site.email }}](mailto:{{ site.email }})
 - [вк](https://vk.com/kaneru)
 - [твиттер](https://twitter.com/kaneru__)
 - [гитхаб](https://github.com/kaneru)
