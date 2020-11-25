@@ -23,7 +23,7 @@ const sendTypo = () => {
 
   selection.empty();
 
-  const to = 'kaneru@protonmail.com';
+  const to = 'kaneru+blog@fastmail.com';
   const subject = 'Опечатка в публикации ' + title;
   const content =
     'Привет, Анатолий!' +
