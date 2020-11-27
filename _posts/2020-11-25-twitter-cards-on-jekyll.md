@@ -15,7 +15,7 @@ tags: ['#100DaysToOffload', 'блог', 'мета', 'сео', 'джекилл', 
 
 <figure>
   <img src="{{ site.url }}/assets/images/twitter-cards-on-jekyll/geek.jpg" data-action="zoom" alt="Гик, сидящий в трусах, копается в компьютере" >
-  <figcaption>Это — редакция данного блога в 6 часов утра настраивает СЕО для данного блога.</figcaption>
+  <figcaption>Это — редакция нашего блога в 6 часов утра настраивает СЕО для данного блога.</figcaption>
 </figure>
 
 Взял первую попавшуюся [статью](https://brianbunke.com/blog/2017/09/06/twitter-cards-on-jekyll/) о том, как сделать Твиттер карточки для [Джекилл](https://jekyllrb.com/). ~~Спиздил~~ позаимствовал код для их настройки. Его надо вставить внутрь тега `<head>`. Вот он:
