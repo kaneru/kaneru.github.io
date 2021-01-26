@@ -2,7 +2,7 @@
 layout: post
 title: 'Как удалить дефолтную клавиатурную раскладку ABC в Макос'
 date: 2021-01-27 05:17 +09:00
-tags: ['#100DaysToOffload', 'макос', 'клавиатура', 'раскладка Бирмана']
+tags: ['макос', 'клавиатура', 'раскладка Бирмана']
 image: /assets/images/delete-dafault-keyboard-layout-on-macos/abc.jpg
 summary: 'Удаляем дефолтную клавиатурную раскладку ABC в Макос'
 ---
