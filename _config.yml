@@ -1,5 +1,8 @@
 title: 'Блог Анатолия Гуляева'
 author: 'Анатолий Гуляев'
+author_name: 'kaneru'
+author_first_name: 'Анатолий'
+author_last_name: 'Гуляев'
 keywords: 'kaneru, блог, продуктивность, лайфлист, программирование, фронтенд'
 description: > # this means to ignore newlines until "note:"
   Пишу про программирование, фронтенд, продуктивность и свою жизнь.
@@ -9,8 +12,11 @@ description: > # this means to ignore newlines until "note:"
 path: ''
 url:  'https://kaneru.me'
 twitter_username: 'kaneru__'
-title_image: "/assets/images/title_image.png"
 email: 'kaneru+blog@fastmail.com'
+
+title_image: "/assets/images/title_image.png"
+img_width: 1280
+img_height: 640
 
 permalink: :title/
 
