@@ -263,3 +263,12 @@ background-color: #FF6600
   background-color: #43648c;
   border-color: #43648c;
 }
+
+aside > mark {
+  background-color: rgb(247, 246, 246);
+  display: inline-block;
+  font-size: 0.9rem;
+  font-style: normal;
+  margin: 3px;
+  padding: 0 7px;
+}
