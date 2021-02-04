@@ -60,7 +60,7 @@ What I love in development is solving difficult problems by finding and implemen
 
 ## Experience outside development
 
-10.2019 – 06.2019, Physico-technical Lyceum, Russia, Yakutsk, IT teacher
+10.2019 – 06.2020, Physico-technical Lyceum, Russia, Yakutsk, IT teacher
 
 10.2018 – 05.2019, Republican Boarding Lyceum, Russia, Yakutsk, IT teacher
 
