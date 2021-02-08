@@ -84,8 +84,3 @@ permalink: /cv_rus/
 ## Ключевые слова
 
 React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Ruby on Rails, Python3, git, VSCode
-
----
-
-*Референсы могут быть предоставлены по запросу*
-

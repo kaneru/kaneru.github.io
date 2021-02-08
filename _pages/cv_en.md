@@ -84,7 +84,3 @@ The Moscow Institute of Electronics and Mathematics, Russia, Moscow, 2012–2014
 ## Keywords
 
 React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Ruby on Rails, Python3, git, VSCode
-
----
-
-*References can be given upon request*
