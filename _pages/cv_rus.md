@@ -4,13 +4,15 @@ title: Резюме Анатолия Гуляева
 permalink: /cv_rus/
 ---
 
-Анатолий Гуляев • Фронтенд Разработчик • [kaneru+job@fastmail.com](mailto:kaneru+job@fastmail.com) • [гитхаб](https://github.com/kaneru) • [+7 (996) 316-13-37](tel:+79963161337) • Россия, Якутск, МСК+6
+> [English version]({{ site.url }}/cv_en)
+
+Анатолий Гуляев • Фронтенд Разработчик • [kaneru+job@fastmail.com](mailto:kaneru+job@fastmail.com) • [гитхаб](https://github.com/kaneru) • [+7 (996) 316-13-37](tel:+79963161337) • Якутск, Россия, МСК+6
 
 ---
 
 ## Кратко о себе
 
-Фронтенд разработчик из России, Якутск. Мои главные инструменты для решения фронтенд задач — React, styled-components и Redux. Есть базовые знания бэкенд разработки. Иногда использую Python для автоматизации рутинных задач.
+Фронтенд разработчик из Якутска, Россия. Мои главные инструменты для решения фронтенд задач — React, styled-components и Redux. Есть базовые знания бэкенд разработки. Иногда использую Python для автоматизации рутинных задач.
 
 В ближайшем будущем хочу изучить и опробовать в действии TypeScript, какую-нибудь, отличную от Redux, библиотеку для управления состоянием и Jest.
 
@@ -83,4 +85,4 @@ permalink: /cv_rus/
 
 ## Ключевые слова
 
-React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Ruby on Rails, Python3, git, VSCode
+React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Bootstrap 4, Jekyll, Ruby on Rails, Python3, git, VSCode

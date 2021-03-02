@@ -4,13 +4,15 @@ title: Anatoliy Gulyaev's CV
 permalink: /cv_en/
 ---
 
-Anatoliy Gulyaev • Front-end Developer • [kaneru+job@fastmail.com](mailto:kaneru+job@fastmail.com) • [github](https://github.com/kaneru) • [+7 (996) 316-13-37](tel:+79963161337) • Russia, Yakutsk, UTC+9
+> [Русская версия]({{ site.url }}/cv_en)
+
+Anatoliy Gulyaev • Front-end Developer • [kaneru+job@fastmail.com](mailto:kaneru+job@fastmail.com) • [github](https://github.com/kaneru) • [+7 (996) 316-13-37](tel:+79963161337) • Yakutsk, Russia, UTC+9
 
 ---
 
 ## Summary
 
-Front-end developer from Russia, Yakutsk. My main tools for solving front-end problems are React, styled-components and Redux. Have some basic knowledge in back-end development. Sometimes use Python to automate some routine tasks.
+Front-end developer from Yakutsk, Russia. My main tools for solving front-end problems are React, styled-components and Redux. Have some basic knowledge in back-end development. Sometimes use Python to automate some routine tasks.
 
 Stuff I really want to learn and try in action currently are TypeScript, some state management library other than Redux and Jest.
 
@@ -83,4 +85,4 @@ The Moscow Institute of Electronics and Mathematics, Russia, Moscow, 2012–2014
 
 ## Keywords
 
-React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Ruby on Rails, Python3, git, VSCode
+React, Redux, Context API, styled-components, storybook, JavaScript, Webpack, HTML, CSS, Sass, Bootstrap 4, Jekyll, Ruby on Rails, Python3, git, VSCode
