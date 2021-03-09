@@ -300,3 +300,56 @@ aside > mark {
   margin: 3px;
   padding: 0 7px;
 }
+
+.wishlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  grid-gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.wishlist-card {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 0.5rem;
+  box-shadow: 0 5.8px 12.5px rgba(0, 0, 0, 0.029),
+    0 46px 100px rgba(0, 0, 0, 0.07);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.wishlist-card h3 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+.wishlist-card img {
+  border-radius: 0.5rem 0.5rem 0 0;
+  width: 100%;
+  object-fit: cover;
+  height: max(10rem, 30vh);
+}
+
+.wishlist-card img ~ * {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.wishlist-card__body {
+  padding: 0.5em 1em;
+  flex: 1;
+}
+
+.wishlist-card__description {
+  font-size: 0.8em;
+  color: #aaa;
+}
+
+.wishlist-card__footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em 1em 1em;
+}

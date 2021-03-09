@@ -1,0 +1,27 @@
+---
+layout: page
+title: Вишлист
+permalink: /wishlist/
+---
+
+<ul class="wishlist-grid">
+  {% for item in site.data.wishlist %}
+    <li class="wishlist-card">
+      <a href="{{ item.link }}">
+        <img class="wishlist-card__image" src="{{ item.image | prepend: site.baseurl }}" alt="" />
+      </a>
+      <div class="wishlist-card__body">
+        <a href="{{ item.link }}">
+          <h3 class="wishlist-card__title">
+            {{ item.title }}
+          </h3>
+        </a>
+        <p class="wishlist-card__description">{{ item.description }}</p>
+      </div>
+      <div class="wishlist-card__footer">
+        <span class="wishlist-card__price">{{ item.price }}</span>
+        <a href="{{ item.link }}">Ссылка</a>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

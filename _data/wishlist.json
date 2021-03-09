@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Ring Fit Adventure",
+    "image": "/assets/images/wishlist/ring-fit.jpg",
+    "description": "Помогите мне похудеть",
+    "price": "6 190₽",
+    "link": "https://www.mvideo.ru/products/igra-nintendo-switch-ring-fit-adventure-40072343"
+  },
+  {
+    "title": "Raspberry Pi 4",
+    "image": "/assets/images/wishlist/raspberry-4.webp",
+    "description": "Хочу накатить Pi-hole и не платить за YouTube Premium",
+    "price": "$35",
+    "link": "https://www.raspberrypi.org/"
+  },
+  {
+    "title": "IGB 2.0",
+    "image": "/assets/images/wishlist/IGB.jpg",
+    "description": "Лютая велосумка",
+    "price": "$139",
+    "link": "https://www.blackpack.com.ua/product/its-a-good-bag-2-0/"
+  },
+  {
+    "title": "Evangelion x Uniqlo T-Shirt (XL)",
+    "image": "/assets/images/wishlist/evangelion-t-shirt.jpg",
+    "description": "Мисато > Рэй > Аска",
+    "price": "—",
+    "link": "https://www.uniqlo.com/us/en/ut-graphic-tees/evangelion"
+  },
+  {
+    "title": "Death Grips Money Store T-Shirt (XL)",
+    "image": "/assets/images/wishlist/DeathGripsMoneyStoreT.jpg",
+    "description": "«Oh shit, I'm feeling it» — Mr. Death Grips",
+    "price": "$18",
+    "link": "https://www.hellomerch.com/collections/death-grips/products/money-store-white-t-shirt"
+  },
+  {
+    "title": "Keychron K6 Wireless Mechanical Keyboard",
+    "image": "/assets/images/wishlist/keychron-k6.jpg",
+    "description": "Gateron Mechanical, Red",
+    "price": "$69",
+    "link": "https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard?variant=31440990011481"
+  },
+  {
+    "title": "Classic Legendary Vacuum Insulated Bottle | 2 QT | Stanley",
+    "image": "/assets/images/wishlist/stanley.jpg",
+    "description": "Stay hydrated",
+    "price": "$45",
+    "link": "https://www.stanley1913.com/products/classic-legendary-bottle-2-0-qt"
+  }
+]
