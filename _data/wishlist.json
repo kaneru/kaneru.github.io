@@ -1,51 +1,90 @@
 [
   {
+    "title": "Shu Omi — Highlights, Literature Notes, Evergreen Notes",
+    "image": "/assets/images/wishlist/shu_omi.png",
+    "description": "",
+    "price": "$25",
+    "link": "https://www.shuomi.me/book-notes",
+    "gifted": 0
+  },
+  {
+    "title": "Hell Yes! CSS!",
+    "image": "/assets/images/wishlist/hell-yes-css.jpg",
+    "description": "",
+    "price": "$3.60",
+    "link": "https://gumroad.com/l/css-zine/RUSSIAZINES",
+    "gifted": 0
+  },
+  {
+    "title": "MAKE: THE BOOTSTRAPPER'S HANDBOOK",
+    "image": "/assets/images/wishlist/make.png",
+    "description": "",
+    "price": "$14.99",
+    "link": "https://makebook.io/",
+    "gifted": 0
+  },
+  {
+    "title": "BAGSMART Electronic Organizer Small Travel Cable Organizer Bag",
+    "image": "/assets/images/wishlist/bagsmart.jpg",
+    "description": "",
+    "price": "$16.99",
+    "link": "https://www.amazon.com/BAGSMART-Travel-Electronics-Organizer-Charger/dp/B06XW5K5ZS",
+    "gifted": 0
+  },
+  {
     "title": "Ring Fit Adventure",
     "image": "/assets/images/wishlist/ring-fit.jpg",
-    "description": "Помогите мне похудеть",
+    "description": "✅ 14.03.2021 — Спасибо большое Яне и Иону :)",
     "price": "6 190₽",
-    "link": "https://www.mvideo.ru/products/igra-nintendo-switch-ring-fit-adventure-40072343"
+    "link": "https://www.mvideo.ru/products/igra-nintendo-switch-ring-fit-adventure-40072343",
+    "gifted": 1
   },
   {
     "title": "Raspberry Pi 4",
     "image": "/assets/images/wishlist/raspberry-4.webp",
     "description": "Хочу накатить Pi-hole и не платить за YouTube Premium",
     "price": "$35",
-    "link": "https://www.raspberrypi.org/"
+    "link": "https://www.raspberrypi.org/",
+    "gifted": 0
   },
   {
     "title": "IGB 2.0",
     "image": "/assets/images/wishlist/IGB.jpg",
     "description": "Лютая велосумка",
     "price": "$139",
-    "link": "https://www.blackpack.com.ua/product/its-a-good-bag-2-0/"
+    "link": "https://www.blackpack.com.ua/product/its-a-good-bag-2-0/",
+    "gifted": 0
   },
   {
     "title": "Evangelion x Uniqlo T-Shirt (XL)",
     "image": "/assets/images/wishlist/evangelion-t-shirt.jpg",
     "description": "Мисато > Рэй > Аска",
-    "price": "—",
-    "link": "https://www.uniqlo.com/us/en/ut-graphic-tees/evangelion"
+    "price": "🤷‍♂️",
+    "link": "https://www.uniqlo.com/us/en/ut-graphic-tees/evangelion",
+    "gifted": 0
   },
   {
     "title": "Death Grips Money Store T-Shirt (XL)",
     "image": "/assets/images/wishlist/DeathGripsMoneyStoreT.jpg",
     "description": "«Oh shit, I'm feeling it» — Mr. Death Grips",
     "price": "$18",
-    "link": "https://www.hellomerch.com/collections/death-grips/products/money-store-white-t-shirt"
+    "link": "https://www.hellomerch.com/collections/death-grips/products/money-store-white-t-shirt",
+    "gifted": 0
   },
   {
     "title": "Keychron K6 Wireless Mechanical Keyboard",
     "image": "/assets/images/wishlist/keychron-k6.jpg",
     "description": "Gateron Mechanical, Red",
     "price": "$69",
-    "link": "https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard?variant=31440990011481"
+    "link": "https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard?variant=31440990011481",
+    "gifted": 0
   },
   {
     "title": "Classic Legendary Vacuum Insulated Bottle | 2 QT | Stanley",
     "image": "/assets/images/wishlist/stanley.jpg",
     "description": "Stay hydrated",
     "price": "$45",
-    "link": "https://www.stanley1913.com/products/classic-legendary-bottle-2-0-qt"
+    "link": "https://www.stanley1913.com/products/classic-legendary-bottle-2-0-qt",
+    "gifted": 0
   }
 ]

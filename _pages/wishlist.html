@@ -5,8 +5,9 @@ permalink: /wishlist/
 ---
 
 <ul class="wishlist-grid">
-  {% for item in site.data.wishlist %}
-    <li class="wishlist-card">
+  {% assign sorted = site.data.wishlist  | sort: 'gifted' %}
+  {% for item in sorted %}
+    <li class="wishlist-card {% if item.gifted == 1 %}gifted{% endif %}">
       <a href="{{ item.link }}">
         <img class="wishlist-card__image" src="{{ item.image | prepend: site.baseurl }}" alt="" />
       </a>
@@ -20,7 +21,7 @@ permalink: /wishlist/
       </div>
       <div class="wishlist-card__footer">
         <span class="wishlist-card__price">{{ item.price }}</span>
-        <a href="{{ item.link }}">Ссылка</a>
+        {% if item.gifted == 0 %}<a href="{{ item.link }}">Ссылка</a>{% endif %}
       </div>
     </li>
   {% endfor %}

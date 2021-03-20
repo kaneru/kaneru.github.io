@@ -319,6 +319,29 @@ aside > mark {
   margin: 0;
   display: flex;
   flex-direction: column;
+  transition: transform 0.2s ease;
+}
+
+.wishlist-card > a {
+  padding: 0.8em 0.8em 0;
+}
+
+.gifted {
+  background-color: #151515;
+}
+
+.gifted a {
+  color: #eee;
+}
+
+.gifted h3,
+.gifted .wishlist-card__price {
+  color: #eee;
+  text-decoration: line-through;
+}
+
+.wishlist-card:hover {
+  transform: scale(1.02);
 }
 
 .wishlist-card h3 {
@@ -327,7 +350,7 @@ aside > mark {
 }
 
 .wishlist-card img {
-  border-radius: 0.5rem 0.5rem 0 0;
+  border: 1px solid #eee;
   width: 100%;
   object-fit: cover;
   height: max(10rem, 30vh);
