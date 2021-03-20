@@ -351,6 +351,7 @@ aside > mark {
 
 .wishlist-card img {
   border: 1px solid #eee;
+  border-radius: 0.5rem;
   width: 100%;
   object-fit: cover;
   height: max(10rem, 30vh);
