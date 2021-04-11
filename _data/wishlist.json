@@ -26,10 +26,10 @@
   {
     "title": "BAGSMART Electronic Organizer Small Travel Cable Organizer Bag",
     "image": "/assets/images/wishlist/bagsmart.jpg",
-    "description": "",
+    "description": "Купил себе аналог с Алиэкспресс",
     "price": "$16.99",
     "link": "https://www.amazon.com/BAGSMART-Travel-Electronics-Organizer-Charger/dp/B06XW5K5ZS",
-    "gifted": 0
+    "gifted": 1
   },
   {
     "title": "Ring Fit Adventure",
@@ -85,6 +85,46 @@
     "description": "Stay hydrated",
     "price": "$45",
     "link": "https://www.stanley1913.com/products/classic-legendary-bottle-2-0-qt",
+    "gifted": 0
+  },
+  {
+    "title": "Простые правила сильного текста (комплект карточек) | Ильяхов Максим",
+    "image": "/assets/images/wishlist/ilyahov-simple-rules.jpg",
+    "description": "Ильяхов — крутой!",
+    "price": "838₽",
+    "link": "https://www.ozon.ru/context/detail/id/155476095/",
+    "gifted": 0
+  },
+  {
+    "title": "Шаблоны текста для работы и бизнеса | Ильяхов Максим",
+    "image": "/assets/images/wishlist/ilyahov-templates.jpg",
+    "description": "Ильяхов — крутой! [2]",
+    "price": "750₽",
+    "link": "https://www.ozon.ru/context/detail/id/184972216/",
+    "gifted": 0
+  },
+  {
+    "title": "Victorinox Swiss Army Hunter",
+    "image": "/assets/images/wishlist/hunter.jpg",
+    "description": "EDC",
+    "price": "$52.99",
+    "link": "https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Large-Pocket-Knives/Hunter/p/0.8573",
+    "gifted": 0
+  },
+  {
+    "title": "Догзилла / двусторонняя футболка (XL, чёрная)",
+    "image": "/assets/images/wishlist/dogzilla.jpg",
+    "description": "DESTROY ALL HUMANS!",
+    "price": "1750₽",
+    "link": "https://barkingstore.ru/collection/t-shirts/product/dogzilla-dvustoronnyaya-futbolka",
+    "gifted": 0
+  },
+  {
+    "title": "Почти любая футболка с этого сайта (L/XL, чёрная)",
+    "image": "/assets/images/wishlist/qwertee.jpg",
+    "description": "Rise and shine, Mr. Freeman, vy obosralis.",
+    "price": "€11–16",
+    "link": "https://www.qwertee.com/",
     "gifted": 0
   }
 ]
