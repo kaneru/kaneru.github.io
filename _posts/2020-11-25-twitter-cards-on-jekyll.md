@@ -14,7 +14,7 @@ tags: ['#100DaysToOffload', 'блог', 'мета', 'сео', 'джекилл', 
 Этим утром я рано встал, в 05:00, заварил кофе и пошёл курить мануалы, постигать сеошную магию.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/twitter-cards-on-jekyll/geek.jpg" data-action="zoom" alt="Гик, сидящий в трусах, копается в компьютере" >
+  <img src="{{ site.url }}/assets/images/twitter-cards-on-jekyll/geek.jpg" data-action="zoom" alt="Гик, сидящий в трусах, копается в компьютере." >
   <figcaption>Это — редакция нашего блога в 6 часов утра настраивает СЕО для данного блога.</figcaption>
 </figure>
 

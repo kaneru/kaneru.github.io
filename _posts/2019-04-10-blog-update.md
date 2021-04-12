@@ -12,7 +12,7 @@ tags: blog
 Взял и сделал. Избавился от бутстрапа и вместо него прикрутил легковесный [awsm.css](https://igoradamenko.github.io/awsm.css/index.html). Добавил кнопки "Поделиться", которые не следят за пользователем ([взял отсюда](https://sharingbuttons.io)). Прикрутил [zoom.js](https://github.com/nishanths/zoom.js). Теперь картинки кликабельные.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/blog-update/1.jpg" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/blog-update/1.jpg" data-action="zoom" alt="Пример картинки для зума. Если нажать на неё, то она увеличится.">
   <figcaption>Нажми на меня!</figcaption>
 </figure>
 

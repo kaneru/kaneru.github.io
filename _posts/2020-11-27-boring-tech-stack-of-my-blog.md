@@ -11,7 +11,7 @@ image: '/assets/images/boring-tech-stack-of-my-blog/fan_vs_enjoyer.png'
 Первая версия этого блога создавалась с помощью движка [Октопресс](http://octopress.org/). Ныне депрекейтед. Следующая итерация: «А не сделать ли мне самописный движок на Рельсах?» — подумал я. И ёбнул. У меня даже остался скриншот.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/boring-tech-stack-of-my-blog/screenshot.jpeg" data-action="zoom" alt="Скриншот моего Блога в 2017">
+  <img src="{{ site.url }}/assets/images/boring-tech-stack-of-my-blog/screenshot.jpeg" data-action="zoom" alt="Скриншот моего Блога в 2017 году.">
   <figcaption>Скриншот от 2017-08-02</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ image: '/assets/images/boring-tech-stack-of-my-blog/fan_vs_enjoyer.png'
 Основные мета-теги я поставил. Недавно [настроил мета-теги для Твиттер превью]({{ site.url }}/twitter-cards-on-jekyll). И конверсия реально выросла!
 
 <figure>
-  <img src="{{ site.url }}/assets/images/boring-tech-stack-of-my-blog/fan_vs_enjoyer.png" data-action="zoom" alt="Мем">
+  <img src="{{ site.url }}/assets/images/boring-tech-stack-of-my-blog/fan_vs_enjoyer.png" data-action="zoom" alt="Мем average fan of маленьких показателей кликов на блог в Твиттере против average enjoyer of большой конверсии.">
   <figcaption>До внедрения Твиттер Превью и после.</figcaption>
 </figure>
 

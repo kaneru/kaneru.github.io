@@ -10,7 +10,7 @@ summary: 'Чёрная пятница'
 Это Пост 30 из 100 челленджа [#100DaysToOffload]({{ site.url }}/tags/#100daystooffload). Подробнее о челлендже [тут]({{ site.url }}/100-days-to-offload).
 
 <figure>
-  <img src="{{ site.url }}/assets/images/black-friday/output.gif" data-action="zoom" alt="Гифка, где бесконечно загружаются цены на Протон ВПН" >
+  <img src="{{ site.url }}/assets/images/black-friday/output.gif" data-action="zoom" alt="Гифка, где бесконечно загружаются цены на Протон ВПН." >
   <figcaption>Какой садист так переделал анимацию спиннера, который явно должен крутиться?</figcaption>
 </figure>
 

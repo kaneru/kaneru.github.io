@@ -5,7 +5,7 @@ date: 2017-08-27 09:00:00
 tags: bullet-journal
 ---
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/1.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/1.jpg" alt="Мой Bullet Journal: черный блокнот Leuchtturm1917 размера A5 и ручка Moleskine."></figure>
 
 Я пользуюсь системой Bullet Journal (BuJo) 3 года. До него пытался пользоваться другими gtd системами, потом перешел на BuJo. Был момент, когда я перестал на время им пользоваться. Но сейчас ввиду моей занятости BuJo стал незаменимым помощником. В данном посте я хочу поделиться с вами о том, как я пользуюсь BuJo, а также о преимуществах и недостатках этой аналоговой системы самоорганизации.
 
@@ -27,43 +27,43 @@ tags: bullet-journal
 
 Оставил как в оригинале:
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/2.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/2.jpg" alt="Индекс страница моего Bullet Journal. Своего рода оглавление."></figure>
 
 ###  The Future Log
 
 Этот раздел занимает 2 страницы, где уместились 12 месяцев. Туда я пишу глобальные задачи, а также планируемые задачи и события на будущее.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/3.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/3.jpg" alt="Страницы, где расписаны глобальные задачи. На одном развороте 6 месяцев."></figure>
 
 ### The Monthly Log
 
 Данный раздел занимает 4 страницы. На первой и второй страницах находятся календарь с событиями и задачами, плюс habit tracker, на третьей и четвёртой — глобальные задачи и цели на месяц.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/4.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/4.jpg" alt="Первый разворот страницы Monthly Log. Август, 2017 год. Слева трекер привычек, справа календарь задач и событий."></figure>
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/5.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/5.jpg" alt="Продолжение месяца. На развороте расписаны глобальные задачи и цели на месяц."></figure>
 
 ### The Daily Log
 
 Раньше я пользовался Weekly Spread, то есть одна неделя на одном развороте, но часто не хватало места.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/6.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/6.jpg" alt="Старый формат Daily Log. Один разворот — одна неделя."></figure>
 
 Теперь каждый день занимает ровно одну страницу. Временная шкала позволяет наглядно распланировать задачи и встречи в течение дня.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/7.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/7.jpg" alt="Новый формат. Одна страница — один день."></figure>
 
 О временной шкале почитайте [здесь](http://bulletjournal.com/daily-plan-bar/).
 
 Если у меня осталось много свободного места на странице, то я обычно на ней рисую карты мыслей или развёртываю Brain Dump.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/8.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/8.jpg" alt="Ещё один пример Daily Log. Можно увидеть временную шкалу, карту мыслей и Brain Dump."></figure>
 
 ### Brain Dump
 
 Brain Dump - это раздел, куда я пишу все мысли, которые крутятся в голове: задачи, мысли, идеи, результаты рефлексии и т.п.
 
-<figure><img src="{{ site.url }}/assets/images/bullet-journal/9.jpg"></figure>
+<figure><img src="{{ site.url }}/assets/images/bullet-journal/9.jpg" alt="Пример страницы с разделом Brain Dump."></figure>
 
 ## Преимущества
 

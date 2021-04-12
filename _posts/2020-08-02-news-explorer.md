@@ -14,7 +14,7 @@ tags: ['#100DaysToOffload', 'рсс', 'макос', 'айос', 'ньюс-экс
 Ньюс Эксплорер в свою очередь имеет опрятный внешний вид, синхронизацию между устройствами через Айклауд и, самое главное, на приложение не надо подписываться. Купил и забыл. Мне большего не надо.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/news-explorer/news-explorer-macos.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/news-explorer/news-explorer-macos.png" data-action="zoom" alt="Скриншот программы News Explorer на macOS.">
   <figcaption>Кайф!</figcaption>
 </figure>
 

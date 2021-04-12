@@ -16,7 +16,7 @@ summary: 'Удаляем дефолтную клавиатурную раскл�
 Но в Макос есть баг: после устанавки раскладки Бирмана удалить русскую раскладку можно, а удалить дефолтную ABC просто так уже не получится.
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/abc.jpg" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/abc.jpg" alt="Раскладка ABC в меню выбора раскладки в macOS." data-action="zoom">
 </figure>
 
 Лечится очень легко:
@@ -29,26 +29,26 @@ summary: 'Удаляем дефолтную клавиатурную раскл�
 То же самое, но с картинками:
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/1.png" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/1.png" alt="" data-action="zoom">
   <figcaption>1. Зайти в Настройки → Клавиатура → Источники ввода.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/2.png" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/2.png" alt="" data-action="zoom">
   <figcaption>2. Нажать на кнопку `+` и добавить японский источник ввода.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/3.png" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/3.png" alt="" data-action="zoom">
   <figcaption>3. Удалить источник ввода ABC: выбрать источник и нажать на кнопку `−`.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/4.png" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/4.png" alt="" data-action="zoom">
   <figcaption>4. Удалить японский источник ввода: выбрать источник и нажать на кнопку `−`.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/5.png" alt="Раскладка ABC в меню выбора раскладки в macOS" data-action="zoom">
+  <img src="/assets/images/delete-dafault-keyboard-layout-on-macos/5.png" alt="" data-action="zoom">
   <figcaption>Красота!</figcaption>
 </figure>

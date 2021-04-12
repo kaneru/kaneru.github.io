@@ -15,25 +15,25 @@ tags: ['#100DaysToOffload', 'телеграм']
 Заходим в нужную группу и нажимаем на иконку поиска.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/telegram-your-messages/1.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/telegram-your-messages/1.png" data-action="zoom" alt="">
 </figure>
 
 Нажимаем на иконку человечка слева в верхней панели.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/telegram-your-messages/2.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/telegram-your-messages/2.png" data-action="zoom" alt="">
 </figure>
 
 В открывшейся модалке вводим свой ник и выбираем свой аккаунт.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/telegram-your-messages/3.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/telegram-your-messages/3.png" data-action="zoom" alt="">
 </figure>
 
 В левом сайдбаре в итоге отобразятся ваши сообщения.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/telegram-your-messages/4.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/telegram-your-messages/4.png" data-action="zoom" alt="">
 </figure>
 
 Действия проводил на десктопной макОС-вской версии Телеграма. Думаю, на других версиях действия аналогичны.

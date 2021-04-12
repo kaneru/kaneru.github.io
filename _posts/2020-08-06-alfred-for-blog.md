@@ -10,7 +10,7 @@ tags: ['#100DaysToOffload', 'альфред', 'автоматизация']
 Дотянулись руки до написания простенького воркфлоу для Альфреда, который создаёт заготовку для нового поста в блог в соответствующей папке.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/alfred-for-blog/alfred.jpg" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/alfred-for-blog/alfred.jpg" data-action="zoom" alt="Скриншот моего воркфлоу в программе Альфред на макОС. Изображена команда 'blog', которая создает новый пост в репозитории блога из шаблона.">
 </figure>
 
 Как работает воркфлоу:

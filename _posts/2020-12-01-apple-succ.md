@@ -24,7 +24,7 @@ Old millennial yells at corporations. Эппл уже не та. И я хочу 
 - Опять приложение Фото. Очень информативный прогресс-бар, который появляется при повороте фотографии.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/apple-succ/photo_turn.png" data-action="zoom" alt="Скриншот окна из приложения Фото, где показан прогресс-бар поворота фотографии">
+  <img src="{{ site.url }}/assets/images/apple-succ/photo_turn.png" data-action="zoom" alt="Скриншот окна из приложения Фото, где показан прогресс-бар поворота фотографии.">
 </figure>
 
 - Ещё раз Фото. Графические артефакты при скролле на некоторых превьюшках и в некоторых папках.
@@ -37,11 +37,11 @@ Old millennial yells at corporations. Эппл уже не та. И я хочу 
 - В Эппл Мьюзик альбом может разделиться на два отдельных — сингл и остальной альбом, что очень раздражает, так как это создаёт путаницу.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/apple-succ/album_split_1.png" data-action="zoom" alt="Скриншот из Айтюнс, где альбом Morningside коллектива Fazerdaze зачем-то разделился на два">
+  <img src="{{ site.url }}/assets/images/apple-succ/album_split_1.png" data-action="zoom" alt="Скриншот из Айтюнс, где альбом Morningside коллектива Fazerdaze зачем-то разделился на два.">
 </figure>
 
 <figure>
-  <img src="{{ site.url }}/assets/images/apple-succ/album_split_2.png" data-action="zoom" alt="Скриншот из Айтюнс, где альбом Suicide коллектива Suicide зачем-то разделился на два">
+  <img src="{{ site.url }}/assets/images/apple-succ/album_split_2.png" data-action="zoom" alt="Скриншот из Айтюнс, где альбом Suicide коллектива Suicide зачем-то разделился на два.">
   <figcaption>Это не пропаганда!</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Old millennial yells at corporations. Эппл уже не та. И я хочу 
 - На сайтах, где есть приклеенная к низу экрана строка меню, иногда это меню оказывается посередине. Помогает перезагрузка Сафари.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/apple-succ/bottom_menu.png" data-action="zoom" alt="Скриншот Сафари на Айфоне, где нижнее меню сайта ВК съехало на середину экрана">
+  <img src="{{ site.url }}/assets/images/apple-succ/bottom_menu.png" data-action="zoom" alt="Скриншот Сафари на Айфоне, где нижнее меню сайта ВК съехало на середину экрана.">
   <figcaption>Меню на лоб полезло.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Old millennial yells at corporations. Эппл уже не та. И я хочу 
 - Статус Бар. Пропадают иконка батареи, часы, надпись оператора с антенной, иногда всё сразу. Обычно это происходит после звонка.
 
 <figure>
-  <img src="{{ site.url }}/assets/images/apple-succ/status_bar.jpeg" data-action="zoom" alt="Скриншот моего Айфона, где в статус баре пропала иконка батареи">
+  <img src="{{ site.url }}/assets/images/apple-succ/status_bar.jpeg" data-action="zoom" alt="Скриншот моего Айфона, где в статус баре пропала иконка батареи.">
   <figcaption>Запили мне иконку батареи, блеать!</figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ tags: ['#100DaysToOffload', 'подписки', 'деньги']
 Решил посчитать все свои расходы на сервисы по подписке. Установил приложение с самой милой иконкой, которую я когда-либо видел — [Бобби](https://apps.apple.com/ru/app/bobby-track-subscriptions/id1059152023).
 
 <figure>
-  <img src="{{ site.url }}/assets/images/my-subscriptions/bobby.png" data-action="zoom">
+  <img src="{{ site.url }}/assets/images/my-subscriptions/bobby.png" data-action="zoom" alt="Скриншот программы Бобби, где изображены все мои расходы на сервисы по подписке.">
 </figure>
 
 Бобби приложение простое: ищешь свои сервисы, вбиваешь цену месячную или годовую, можно включить напоминания для оплаты.

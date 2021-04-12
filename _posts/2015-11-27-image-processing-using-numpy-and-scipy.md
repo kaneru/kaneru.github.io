@@ -24,6 +24,6 @@ scipy.misc.imsave('outimage.jpg', a)
 
 ## examples
 
-<figure><img src="{{ site.url }}/assets/images/image-processing/japan.jpg" alt="Japan"></figure>
-<figure><img src="{{ site.url }}/assets/images/image-processing/grill.jpg" alt="Anime girl"></figure>
-<figure><img src="{{ site.url }}/assets/images/image-processing/lake.jpg" alt="Lake"></figure>
+<figure><img src="{{ site.url }}/assets/images/image-processing/japan.jpg" alt="Two images processed with my Python script. Left image is original. You can see japanese street on it. The right is the same image, but pixels are sorted by column."></figure>
+<figure><img src="{{ site.url }}/assets/images/image-processing/grill.jpg" alt="Two images processed with my Python script. Left image is original. You can see anime girl on it. The right is the same image, but pixels are sorted by column."></figure>
+<figure><img src="{{ site.url }}/assets/images/image-processing/lake.jpg" alt="Two images processed with my Pyhton script. Left image is original. You can see trees and lake in sunset on it. The right is the same image, but pixels are sorted by column."></figure>

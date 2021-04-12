@@ -9,7 +9,7 @@ permalink: /wishlist/
   {% for item in sorted %}
     <li class="wishlist-card {% if item.gifted == 1 %}gifted{% endif %}">
       <a href="{{ item.link }}">
-        <img class="wishlist-card__image" src="{{ item.image | prepend: site.baseurl }}" alt="" />
+        <img class="wishlist-card__image" src="{{ item.image | prepend: site.baseurl }}" alt="Элемент из вишлиста: {{ item.title }}" />
       </a>
       <div class="wishlist-card__body">
         <a href="{{ item.link }}">
