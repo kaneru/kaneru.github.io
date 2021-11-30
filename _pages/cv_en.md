@@ -4,7 +4,7 @@ title: Anatoliy Gulyaev's CV
 permalink: /cv_en/
 ---
 
-> [Русская версия]({{ site.url }}/cv_en)
+> [Русская версия]({{ site.url }}/cv_rus)
 
 Anatoliy Gulyaev • Front-end Developer • [kaneru+job@fastmail.com](mailto:kaneru+job@fastmail.com) • [github](https://github.com/kaneru) • [+7 (996) 316-13-37](tel:+79963161337) • Yakutsk, Russia, UTC+9
 
