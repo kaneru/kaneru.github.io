@@ -377,3 +377,20 @@ aside > mark {
   justify-content: space-between;
   padding: 0.5em 1em 1em;
 }
+
+.travel_list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.travel_list__item-place {
+  font-weight: 500;
+}
+
+.travel_list__item-dates {
+  font-size: 0.875rem;
+  color: rgba(0, 0, 0, 0.5);
+}

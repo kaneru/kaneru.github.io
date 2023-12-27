@@ -1,0 +1,20 @@
+---
+layout: page
+title: Путешествия
+permalink: /travel/
+---
+
+{% assign travel_data = site.data.travel %}
+{% for year in travel_data %}
+    <h2>{{ year[0] }}</h2>
+    <br />
+    <ul class="travel_list">
+    {% for entry in year[1] %}
+      <li>
+        <span class="travel_list__item-place">{{ entry.place }}</span>
+        <br>
+        <span class="travel_list__item-dates">{{ entry.dates }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
