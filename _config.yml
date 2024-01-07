@@ -3,9 +3,8 @@ author: 'Анатолий Гуляев'
 author_name: 'kaneru'
 author_first_name: 'Анатолий'
 author_last_name: 'Гуляев'
-keywords: 'kaneru, блог, продуктивность, лайфлист, программирование, фронтенд'
 description: > # this means to ignore newlines until "note:"
-  Пишу про программирование, фронтенд, продуктивность и свою жизнь.
+  Пишу про программирование, фронтенд, продуктивность, путешествия и свою жизнь.
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
@@ -18,7 +17,7 @@ title_image: "/assets/images/title_image.png"
 img_width: 1280
 img_height: 640
 
-permalink: :title/
+permalink: /:title
 
 markdown: kramdown
 kramdown:
