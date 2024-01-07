@@ -43,3 +43,10 @@ plugins: [rouge, jekyll-sitemap, jekyll-feed, jekyll-paginate]
 future: true
 
 timezone: Asia/Yakutsk
+
+defaults:
+  -
+    scope:
+      path: "google*.html"
+    values:
+      sitemap: false
