@@ -17,7 +17,7 @@ title_image: "/assets/images/title_image.png"
 img_width: 1280
 img_height: 640
 
-permalink: /:title
+permalink: /:title/
 
 markdown: kramdown
 kramdown:
