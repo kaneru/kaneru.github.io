@@ -1,9 +1,5 @@
-title: 'Блог Анатолия Гуляева'
-author: 'Анатолий Гуляев'
-author_name: 'kaneru'
-author_first_name: 'Анатолий'
-author_last_name: 'Гуляев'
-description: > # this means to ignore newlines until "note:"
+title: 'Anatoly Gulyaev'
+description: >
   Пишу про программирование, фронтенд, продуктивность, путешествия и свою жизнь.
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https

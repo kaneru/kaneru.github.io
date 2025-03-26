@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
   <head>
     {% include head.html %}
   </head>
@@ -9,6 +9,30 @@
       {{ content }}
     </main>
     {% include footer.html %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const emblaNode = document.querySelector(".embla");
+        const viewportNode = emblaNode.querySelector('.embla__viewport')
+        const embla = EmblaCarousel(viewportNode, { loop: true }, [EmblaCarouselFade()]);
+
+        const prevButton = document.querySelector(".embla__prev");
+        const nextButton = document.querySelector(".embla__next");
+
+        prevButton.addEventListener("click", () => embla.scrollPrev());
+        nextButton.addEventListener("click", () => embla.scrollNext());
+
+        const counter = document.querySelector(".embla__counter");
+        const totalSlides = embla.slideNodes().length;
+
+        const updateCounter = () => {
+          const selectedIndex = embla.selectedScrollSnap() + 1;
+          counter.textContent = `${selectedIndex} of ${totalSlides}`;
+        };
+
+        embla.on("select", updateCounter);
+        updateCounter();
+      });
+    </script>
     <script data-goatcounter="https://kaneru.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>
