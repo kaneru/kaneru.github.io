@@ -1,0 +1,102 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<figure>
+    <img id="personal_picture" alt="" src="/images/me.jpg" width="400" />
+    <figcaption id="personal_picture_caption" style="text-align: center;">Picture by <a href="https://instagram.com/vickysled" target="_blank">@vickysled</a></figcaption>
+</figure>
+
+<p>My name is Anatoly Gulyaev. I am a photographer and front-end developer.</p>
+
+<p>I was born and raised in <a href="https://en.wikipedia.org/wiki/Sakha_Republic" target="_blank">the Sakha Republic</a>.</p>
+
+<p>Before 2024, I had made several attempts at photography — with my family’s DSLR camera and a film point-and-shoot — but those were short bursts of trying and giving up, and I quickly lost interest. I began taking photography seriously at the beginning of 2024 while traveling through Southeast Asia.</p>
+
+<p>My main focus in photography is people and the streets. I’ve always been a fan of candid pictures. For me, street photography is also a way to document my travel experiences. Occasionaly, I do <a href="/series/khuuley/">documentary photography</a> and some fashion photography.</p>
+
+<p>In April 2025, I compiled my photographs into a zine titled <a href="/the-asia-escapade-zine/"><i>the asia escapade</i></a>. The zine features 86 street photos taken across nine countries in Southeast and East Asia.</p>
+
+<p>As my main job, I work as a Front-end Developer. I have worked at inDrive, Bell Integrator, and the National Library of the Republic of Sakha (Yakutia).</p>
+
+<p>I studied at North-Eastern Federal University and hold a Master’s degree in Computer Science and a Bachelor’s degree in Applied Mathematics.</p>
+
+<h2>Photography gear</h2>
+
+<br />
+
+<ul>
+  <li>Camera: Fujifilm X-T5 ii</li>
+  <li>Lens: Fujinon XF 23mm f/2</li>
+  <li>Flash: TT 560 Speedlite / FlashQ M20</li>
+  <li>Cord: Canon Off-Camera Shoe Cord 2</li>
+  <li>Hood: Squarehood Model V for XF 23mm f2 / XF 35mm f2</li>
+</ul>
+
+<script>
+(function () {
+  const target = ["keyl", "keyo", "keyv", "keye"];
+  let buffer = [];
+
+  function swapImageAndCaption(newSrc, newCaption) {
+    const img = document.getElementById("personal_picture");
+    const caption = document.getElementById("personal_picture_caption");
+
+    img.style.opacity = 0;
+    caption.style.opacity = 0;
+
+    setTimeout(() => {
+      img.src = newSrc;
+      caption.textContent = newCaption;
+
+      img.style.opacity = 1;
+      caption.style.opacity = 1;
+    }, 500);
+  }
+
+  function spawnHeart() {
+    const heart = document.createElement("div");
+    heart.className = "heart";
+    heart.textContent = "❤️";
+
+    heart.style.left = Math.random() * 100 + "vw";
+    heart.style.fontSize = 20 + Math.random() * 30 + "px";
+
+    document.body.appendChild(heart);
+
+    setTimeout(() => heart.remove(), 5000);
+  }
+
+  function startHearts() {
+    let count = 0;
+    const interval = setInterval(() => {
+      spawnHeart();
+      count++;
+      if (count > 20) clearInterval(interval);
+    }, 250);
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if (e.altKey) {
+      buffer.push(e.code.toLowerCase());
+
+      if (buffer.length > target.length) {
+        buffer.shift();
+      }
+
+      if (buffer.join("") === target.join("")) {
+        startHearts();
+        swapImageAndCaption(
+          "/images/alyona_and_me.jpg",
+          "I love you, Alyona 🌸💖"
+        );
+        buffer = [];
+      }
+    } else {
+      buffer = [];
+    }
+  });
+})();
+</script>

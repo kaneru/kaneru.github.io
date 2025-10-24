@@ -1,0 +1,32 @@
+{% assign series = site.data.series %}
+{% assign is_series_active = false %}
+{% for link in series %}
+  {% if link.url == page.url %}
+    {% assign is_series_active = true %}
+  {% endif %}
+{% endfor %}
+<header>
+    <div class="header-top">
+        <a href="/" class="header-title">Anatoly Gulyaev</a>
+        <p class="header-subtitle">Photographer</p>
+        <button class="menu-toggle" onclick="toggleHeaderNav()">Menu</button>
+    </div>
+    <hr />
+    <div class="header-nav" id="header-nav">
+        <ul>
+            <li><a href="/about/" class="nav-sublink {% if page.url == '/about/' %}active{% endif %}">About</a></li>
+            <li><a href="https://instagram.com/kaneru__" target="_blank">Instagram</a></li>
+            <li><a href="/travel/" class="nav-sublink {% if page.url == '/travel/' %}active{% endif %}">Travel</a></li>
+            <li><a href="/the-asia-escapade-zine/" class="nav-sublink {% if page.url == '/the-asia-escapade-zine/' %}active{% endif %}">the <span class="zine-link-emphasize">asia</span> escapade zine</a></li>
+            <li>Series
+                <ul>
+                    {% for link in series %}
+                        <li><a href="{{ link.url }}" class="nav-sublink {% if link.url == page.url %}active{% endif %}">{{ link.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+        </ul>
+    </div>
+    {% include footer.html %}
+</header>
+
