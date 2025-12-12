@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="images-grid" id="gallery">
+    {% assign series_name = page.series %}
+    {% assign images = site.data.series[series_name] %}
+
+    {% if images %}
+        {% for img in images %}
+            <a
+                href="{{ img.url }}"
+                data-pswp-width="{{ img.width }}"
+                data-pswp-height="{{ img.height }}"
+                target="_blank"
+            >
+                <img
+                    src="{{ img.url }}"
+                    alt="{{ img.alt | default: '' }}"
+                    width="{{ img.width }}"
+                    height="{{ img.height }}"
+                    loading="lazy"
+                    style="height:auto;"
+                />
+            </a>
+        {% endfor %}
+
+    {% else %}
+        <p>No images found for series</p>
+    {% endif %}
+</div>
+
+{{ content }}
+
+<script type="module">
+import PhotoSwipeLightbox from '/assets/js/photoswipe/photoswipe-lightbox.esm.min.js';
+
+const lightbox = new PhotoSwipeLightbox({
+  gallery: '#gallery',
+  children: 'a',
+  pswpModule: () => import('/assets/js/photoswipe/photoswipe.esm.min.js')
+});
+lightbox.init();
+</script>
